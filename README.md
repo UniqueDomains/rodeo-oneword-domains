@@ -1,0 +1,2 @@
+# rodeo-oneword-domains
+List of rodeo one word domain names with availability, expiration date, attractiveness, demand score.
