@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .RODEO one-word domains still available to buy.
 
-This dataset contains 4,756 .RODEO one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,755 .RODEO one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.RODEO one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=rodeo-oneword-domains&utm_content=description.top) (4,756) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.RODEO one word domain
 
 | Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.rodeo        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.rodeo      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.rodeo        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.rodeo      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.rodeo  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.rodeo      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.rodeo  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.RODEO one word domain
 | abatic.rodeo     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.rodeo    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.rodeo   | available | 50       | 1%     | 8      |           |         |         |
-| abc.rodeo        | available | 102      | 41%    | 3      |           |         |         |
+| abc.rodeo        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.rodeo  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.rodeo  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.rodeo | available | 56       | 1%     | 10     |           |         |         |
