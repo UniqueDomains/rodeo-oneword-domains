@@ -82,7 +82,7 @@ print(df.head())
 | creator.rodeo   | available | $13.28    | —             | 70             | 45     | 7      | namecheap        |
 | food.rodeo      | resell    | —         | —             | 94             | 44     | 4      | Porkbun          |
 | free.rodeo      | premium   | $100      | $14.99        | 88             | 54     | 4      | name.com         |
-| forge.rodeo     | available | $13.28    | —             | 62             | 45     | 5      | namecheap        |
+| star.rodeo      | available | $13.28    | —             | 86             | 44     | 4      | namecheap        |
 | weather.rodeo   | resell    | —         | —             | 78             | 42     | 7      | Domain.com, LLC  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
