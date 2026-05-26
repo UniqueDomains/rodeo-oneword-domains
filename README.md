@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .rodeo one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,508 domains · **Median ask:** $20.75 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/rodeo`  
 **Best for:** founders, investors, studios
 
@@ -80,7 +80,7 @@ print(df.head())
 | maps.rodeo          | available | $16.99    | —             | 56             | 31     | 4      | name.com  |
 | Alexis.rodeo        | premium   | $47.20    | $11.80        | 72             | 21     | 6      | namesilo  |
 | solutions.rodeo     | available | $16.99    | —             | 56             | 31     | 9      | name.com  |
-| children.rodeo      | premium   | $100      | —             | 68             | 21     | 8      | name.com  |
+| children.rodeo      | premium   | $100      | —             | 68             | 19     | 8      | name.com  |
 | cams.rodeo          | available | $12.99    | $12.99        | 52             | 29     | 4      | namesilo  |
 | vacations.rodeo     | premium   | $242      | $11.80        | 56             | 19     | 9      | namesilo  |
 | KFC.rodeo           | available | $17.98    | —             | 74             | 27     | 3      | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RODEO One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RODEO One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
