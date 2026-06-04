@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .rodeo one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,508 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,508 domains · **Median ask:** $20.75 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,508 domains · **Median ask:** $24.78 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/rodeo`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| travelers.rodeo     | available | $12.99    | $12.99        | 58             | 61     | 9      | namesilo  |
-| food.rodeo          | resell    | —         | —             | 94             | 44     | 4      | Porkbun   |
-| cars.rodeo          | premium   | $100      | —             | 66             | 47     | 4      | name.com  |
-| RedSox.rodeo        | available | $17.98    | —             | 72             | 60     | 7      | namecheap |
-| justin.rodeo        | premium   | $50       | —             | 58             | 38     | 7      | name.com  |
-| keepthechange.rodeo | available | $16.99    | —             | 46             | 59     | 15     | name.com  |
-| SanDiego.rodeo      | premium   | $854      | $11.80        | 74             | 29     | 9      | namesilo  |
-| spectra.rodeo       | available | $16.99    | —             | 62             | 34     | 7      | name.com  |
-| trades.rodeo        | premium   | $47.20    | $11.80        | 71             | 26     | 6      | namesilo  |
-| etc.rodeo           | available | $16.99    | —             | 58             | 34     | 3      | name.com  |
-| sites.rodeo         | premium   | $250      | —             | 53             | 26     | 5      | name.com  |
-| payments.rodeo      | available | $16.99    | —             | 58             | 33     | 8      | name.com  |
-| teachers.rodeo      | premium   | $100      | —             | 56             | 22     | 8      | name.com  |
-| maps.rodeo          | available | $16.99    | —             | 56             | 31     | 4      | name.com  |
-| Alexis.rodeo        | premium   | $47.20    | $11.80        | 72             | 21     | 6      | namesilo  |
-| solutions.rodeo     | available | $16.99    | —             | 56             | 31     | 9      | name.com  |
-| children.rodeo      | premium   | $100      | —             | 68             | 19     | 8      | name.com  |
-| cams.rodeo          | available | $12.99    | $12.99        | 52             | 29     | 4      | namesilo  |
-| vacations.rodeo     | premium   | $242      | $11.80        | 56             | 19     | 9      | namesilo  |
-| KFC.rodeo           | available | $17.98    | —             | 74             | 27     | 3      | namecheap |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| loop.rodeo    | available | $13.28    | —             | 72             | 76     | 4      | namecheap        |
+| start.rodeo   | resell    | —         | —             | 92             | 45     | 5      | GoDaddy.com, LLC |
+| fuck.rodeo    | premium   | $242      | $11.80        | 124            | 70     | 4      | namesilo         |
+| windows.rodeo | available | $12.99    | $12.99        | 58             | 67     | 7      | namesilo         |
+| leather.rodeo | resell    | —         | —             | 71             | 21     | 7      | Dynadot Inc      |
+| now.rodeo     | premium   | $47.20    | $11.80        | 78             | 67     | 3      | namesilo         |
+| think.rodeo   | available | $16.99    | —             | 108            | 64     | 5      | name.com         |
+| jeep.rodeo    | premium   | $96       | $11.80        | 69             | 66     | 4      | namesilo         |
+| HBO.rodeo     | available | $12.99    | $12.99        | 76             | 63     | 3      | namesilo         |
+| get.rodeo     | premium   | $5,000    | —             | 88             | 64     | 3      | name.com         |
+| sense.rodeo   | available | $12.99    | $12.99        | 102            | 62     | 5      | namesilo         |
+| april.rodeo   | premium   | $96       | $11.80        | 74             | 62     | 5      | namesilo         |
+| toll.rodeo    | available | $16.99    | —             | 58             | 59     | 4      | name.com         |
+| watson.rodeo  | premium   | $47.20    | $11.80        | 75             | 58     | 6      | namesilo         |
+| clarity.rodeo | available | $12.99    | $12.99        | 76             | 48     | 7      | namesilo         |
+| music.rodeo   | premium   | $96       | $11.80        | 84             | 53     | 5      | namesilo         |
+| deep.rodeo    | available | $12.99    | $12.99        | 72             | 44     | 4      | namesilo         |
+| ink.rodeo     | premium   | $96       | $11.80        | 94             | 51     | 3      | namesilo         |
+| boom.rodeo    | available | $16.99    | —             | 71             | 41     | 4      | name.com         |
+| fast.rodeo    | premium   | $100      | $14.99        | 82             | 51     | 4      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RODEO One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RODEO One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
