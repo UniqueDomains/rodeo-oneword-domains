@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .rodeo one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,508 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,508 domains · **Median ask:** $24.78 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,508 domains · **Median ask:** $24.75 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/rodeo`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/rodeo`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .RODEO one-word domain
 
 ### Files
 
-- `rodeo.csv` — public CSV extract (1,000 rows)
-- `rodeo.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `rodeo.csv`, public CSV extract (1,000 rows)
+- `rodeo.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| loop.rodeo    | available | $13.28    | —             | 72             | 76     | 4      | namecheap        |
-| start.rodeo   | resell    | —         | —             | 92             | 45     | 5      | GoDaddy.com, LLC |
-| fuck.rodeo    | premium   | $242      | $11.80        | 124            | 70     | 4      | namesilo         |
-| windows.rodeo | available | $12.99    | $12.99        | 58             | 67     | 7      | namesilo         |
-| leather.rodeo | resell    | —         | —             | 71             | 21     | 7      | Dynadot Inc      |
-| now.rodeo     | premium   | $47.20    | $11.80        | 78             | 67     | 3      | namesilo         |
-| think.rodeo   | available | $16.99    | —             | 108            | 64     | 5      | name.com         |
-| jeep.rodeo    | premium   | $96       | $11.80        | 69             | 66     | 4      | namesilo         |
-| HBO.rodeo     | available | $12.99    | $12.99        | 76             | 63     | 3      | namesilo         |
-| get.rodeo     | premium   | $5,000    | —             | 88             | 64     | 3      | name.com         |
-| sense.rodeo   | available | $12.99    | $12.99        | 102            | 62     | 5      | namesilo         |
-| april.rodeo   | premium   | $96       | $11.80        | 74             | 62     | 5      | namesilo         |
-| toll.rodeo    | available | $16.99    | —             | 58             | 59     | 4      | name.com         |
-| watson.rodeo  | premium   | $47.20    | $11.80        | 75             | 58     | 6      | namesilo         |
-| clarity.rodeo | available | $12.99    | $12.99        | 76             | 48     | 7      | namesilo         |
-| music.rodeo   | premium   | $96       | $11.80        | 84             | 53     | 5      | namesilo         |
-| deep.rodeo    | available | $12.99    | $12.99        | 72             | 44     | 4      | namesilo         |
-| ink.rodeo     | premium   | $96       | $11.80        | 94             | 51     | 3      | namesilo         |
-| boom.rodeo    | available | $16.99    | —             | 71             | 41     | 4      | name.com         |
-| fast.rodeo    | premium   | $100      | $14.99        | 82             | 51     | 4      | name.com         |
+| bae.rodeo     | available | $12.99    | $12.99        | high           | low    | 3      | namesilo         |
+| start.rodeo   | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC |
+| ana.rodeo     | premium   | $96       | $11.80        | high           | low    | 3      | namesilo         |
+| HBO.rodeo     | available | $12.99    | $12.99        | high           | medium | 3      | namesilo         |
+| leather.rodeo | resell    | —         | —             | high           | low    | 7      | Dynadot Inc      |
+| ate.rodeo     | premium   | $47.20    | $11.80        | high           | low    | 3      | namesilo         |
+| sep.rodeo     | available | $12.99    | $12.99        | high           | low    | 3      | namesilo         |
+| beg.rodeo     | premium   | $96       | $11.80        | medium         | low    | 3      | namesilo         |
+| suv.rodeo     | available | $12.99    | $12.99        | high           | low    | 3      | namesilo         |
+| bit.rodeo     | premium   | $96       | $11.80        | high           | medium | 3      | namesilo         |
+| xxv.rodeo     | available | $12.99    | $12.99        | medium         | low    | 3      | namesilo         |
+| bra.rodeo     | premium   | $96       | $11.80        | medium         | low    | 3      | namesilo         |
+| bead.rodeo    | available | $12.99    | $12.99        | high           | low    | 4      | namesilo         |
+| con.rodeo     | premium   | $96       | $11.80        | high           | low    | 3      | namesilo         |
+| bear.rodeo    | available | $12.99    | $12.99        | high           | low    | 4      | namesilo         |
+| dew.rodeo     | premium   | $96       | $11.80        | medium         | low    | 3      | namesilo         |
+| boom.rodeo    | available | $16.99    | —             | high           | medium | 4      | name.com         |
+| did.rodeo     | premium   | $96       | $11.80        | high           | low    | 3      | namesilo         |
+| cafe.rodeo    | available | $12.99    | $12.99        | high           | low    | 4      | namesilo         |
+| ego.rodeo     | premium   | $96       | $11.80        | medium         | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely focused on .rodeo domains. The names range from very short words such as cry.rodeo and even.rodeo to broader commercial or thematic terms like rocket.rodeo, ticket.rodeo, cocktail.rodeo, and pilot.rodeo. That mix matters when comparing choices. Short words can be easier to remember, while broader terms may signal a clearer use case or audience. The median ask is 20.75, so price is part of the appeal here. When comparing these domains, look closely at word clarity, memorability, fit with the .rodeo extension, and whether the phrase feels intentional rather than forced.
+This list covers 12,508 one-word and short-phrase .rodeo domain names, including everyday words like edamame.rodeo and rumcake.rodeo alongside action phrases such as useit.rodeo and lightup.rodeo. The median asking price across the set sits near $25, keeping entry costs low across this niche extension. For founders, the mix includes short, ownable names that are easy to spell and pronounce. For investors, the .rodeo extension offers wide word-availability, though resale liquidity should be checked against .com equivalents before buying. Updated daily.
 
-- All domains in this selection use the .rodeo extension
-- Examples include cry.rodeo, pilot.rodeo, and ticket.rodeo
-- Median ask across this set is 20.75
-- Compare brevity, clarity, and fit with the extension
+- 12,508 one-word .rodeo domains tracked, spanning short words to phrases
+- Median asking price near $25 across this .rodeo selection
+- Includes brandable single words and compound name-style domains
+- Updated daily to reflect current .rodeo pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RODEO One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RODEO One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
