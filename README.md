@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .rodeo one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,843 domains · **Median ask:** $18.55 · **High-demand under $2,500:** 23
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/rodeo`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| nothing.rodeo | available | $12.99    | $12.99        | high           | low    | 7      | namesilo         |
 | bae.rodeo     | available | $12.99    | $12.99        | high           | low    | 3      | namesilo         |
 | start.rodeo   | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC |
 | abo.rodeo     | premium   | $47.20    | $11.80        | low            | low    | 3      | namesilo         |
@@ -84,6 +83,7 @@ print(df.head())
 | arty.rodeo    | available | $12.99    | $12.99        | low            | low    | 4      | namesilo         |
 | con.rodeo     | premium   | $96       | $11.80        | high           | low    | 3      | namesilo         |
 | bead.rodeo    | available | $12.99    | $12.99        | high           | low    | 4      | namesilo         |
+| dew.rodeo     | premium   | $96       | $11.80        | medium         | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RODEO One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RODEO One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
