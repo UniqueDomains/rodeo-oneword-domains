@@ -1,10 +1,10 @@
-# Available .RODEO One-Word Domains (25,233)
+# Available .RODEO One-Word Domains (27,243)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C233%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C243%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .rodeo one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,233 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,243 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,233 domains · **Median ask:** $21.57 · **High-demand under $2,500:** 45
+**Public extract:** 1,000 rows · **Live catalog:** 27,243 domains · **Median ask:** $21.44 · **High-demand under $2,500:** 51
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/rodeo`
 **Best for:** founders, investors, studios
 
@@ -66,24 +66,24 @@ print(df.head())
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
 | afl.rodeo   | available | $12.99    | $12.99        | high           | low    | 3      | namesilo                                                  |
 | coins.rodeo | resell    | —         | —             | high           | medium | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| ada.rodeo   | premium   | $47.20    | $11.80        | high           | medium | 3      | namesilo                                                  |
+| ada.rodeo   | premium   | $41.60    | $10.55        | high           | medium | 3      | spaceship                                                 |
 | bns.rodeo   | available | $12.99    | $12.99        | high           | low    | 3      | namesilo                                                  |
 | all.rodeo   | premium   | $96       | $11.80        | high           | medium | 3      | namesilo                                                  |
-| gao.rodeo   | available | $12.99    | $12.99        | medium         | low    | 3      | namesilo                                                  |
+| erp.rodeo   | available | $10.58    | $10.58        | high           | medium | 3      | spaceship                                                 |
 | ann.rodeo   | premium   | $96       | $11.80        | high           | low    | 3      | namesilo                                                  |
-| pla.rodeo   | available | $10.58    | $10.58        | high           | low    | 3      | spaceship                                                 |
+| gao.rodeo   | available | $12.99    | $12.99        | medium         | low    | 3      | namesilo                                                  |
 | ava.rodeo   | premium   | $96       | $11.80        | high           | medium | 3      | namesilo                                                  |
-| sse.rodeo   | available | $12.99    | $12.99        | high           | low    | 3      | namesilo                                                  |
+| pla.rodeo   | available | $10.58    | $10.58        | high           | low    | 3      | spaceship                                                 |
 | bop.rodeo   | premium   | $96       | $11.80        | high           | low    | 3      | namesilo                                                  |
-| zhu.rodeo   | available | $10.20    | $10.20        | high           | low    | 3      | cloudflare                                                |
-| cpu.rodeo   | premium   | $96       | $11.80        | high           | low    | 3      | namesilo                                                  |
-| adze.rodeo  | available | $12.99    | $12.99        | medium         | low    | 4      | namesilo                                                  |
+| por.rodeo   | available | $10.92    | $10.92        | medium         | low    | 3      | dynadot                                                   |
 | hic.rodeo   | premium   | $47.20    | $11.80        | high           | low    | 3      | namesilo                                                  |
-| awol.rodeo  | available | $12.99    | $12.99        | high           | low    | 4      | namesilo                                                  |
+| ren.rodeo   | available | $10.58    | $10.58        | high           | low    | 3      | spaceship                                                 |
 | new.rodeo   | premium   | $96       | $11.80        | high           | medium | 3      | namesilo                                                  |
-| axon.rodeo  | available | $12.99    | $12.99        | high           | low    | 4      | namesilo                                                  |
+| sms.rodeo   | available | $12.99    | $12.99        | high           | medium | 3      | namesilo                                                  |
 | odd.rodeo   | premium   | $104      | $13           | high           | low    | 3      | namecheap                                                 |
-| bale.rodeo  | available | $13.98    | $17.98        | medium         | low    | 4      | namecheap                                                 |
+| sse.rodeo   | available | $12.99    | $12.99        | high           | low    | 3      | namesilo                                                  |
+| peg.rodeo   | premium   | $96       | $11.80        | high           | low    | 3      | namesilo                                                  |
+| zhu.rodeo   | available | $10.20    | $10.20        | high           | low    | 3      | cloudflare                                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,233 live domains                        |
+| 1,000-row public sample | 27,243 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 45 high-demand names under $2,500          |
+| Basic exported fields   | 51 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RODEO One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RODEO One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

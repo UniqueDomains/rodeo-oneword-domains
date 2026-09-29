@@ -1,27 +1,34 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+1f1ba1dd-0875-4c15-a6b2-8f053a825845,grosvenor.rodeo,available,10.92,10.92,medium,low,9,dynadot,,,28/09/2026 16:43
 88142a0f-bd62-454a-962c-dca730a8ae33,neverending.rodeo,available,16.99,,high,low,12,name.com,,,
 944d8b5f-9b62-48d5-b78c-8fd4ee7c2b5d,blackmail.rodeo,available,12.99,12.99,high,low,9,namesilo,,,24/09/2026 02:52
 fe0dfef0-e661-437e-a4d3-289a2eb08628,genoese.rodeo,available,12.99,12.99,high,low,7,namesilo,,,18/08/2026 21:48
 d37d3a37-9dd2-4908-be62-1c61d76ea800,peppery.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,08/09/2026 15:37
+bb391262-f68a-44e8-abf4-39d3027bd433,philosopher.rodeo,available,12.99,12.99,high,low,11,namesilo,,,28/09/2026 11:16
 33f8f4fa-61e6-411c-9c86-4e020a37de1d,atreus.rodeo,available,16.99,16.99,medium,low,6,name.com,,,21/09/2026 00:43
+8a246ee3-fa2d-4676-9edd-0670f7410404,earning.rodeo,available,10.2,10.2,medium,low,7,cloudflare,,,28/09/2026 13:27
 48987132-4455-4a28-a848-6ce259a93bca,devotee.rodeo,available,12.99,12.99,high,low,7,namesilo,,,11/08/2026 07:49
 38cb0200-d984-4ffc-adff-b5fedf455c84,sara.rodeo,premium,52,13,high,low,4,namecheap,,,25/09/2026 21:30
 3f3241de-f1d0-49a9-af45-4a53f814dc24,uncomfortable.rodeo,available,12.99,12.99,medium,low,13,namesilo,,,26/09/2026 00:44
-3e5bfac4-60d0-4c0f-990c-c5d25dbb637c,andromeda.rodeo,available,16.99,,high,low,9,name.com,,,
+3e5bfac4-60d0-4c0f-990c-c5d25dbb637c,andromeda.rodeo,available,10.81,10.81,high,medium,9,porkbun,,,28/09/2026 21:22
 40187793-b5d2-4c07-afe1-7a26648406d2,alsatia.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,18/09/2026 14:16
 cadaf877-29f2-49fd-989e-aa739732cbd3,ionic.rodeo,available,12.99,12.99,high,low,5,namesilo,,,22/08/2026 09:29
 ca21a1b1-5d5a-4c20-b499-83bc93bb245c,letting.rodeo,available,12.99,12.99,high,low,7,namesilo,,,09/09/2026 14:21
+3496ca9f-0150-43f3-96cb-8acba0417d38,escaping.rodeo,available,10.2,10.2,high,low,8,cloudflare,,,28/09/2026 21:14
 de073c2e-33ca-45f0-92fb-d2ef621e1f1e,lovesick.rodeo,available,12.99,12.99,high,low,8,namesilo,,,24/08/2026 10:18
+c73af52f-968b-487a-b1cf-67bf27579e4b,seasons.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,28/09/2026 12:51
 339dea40-cec7-49a1-a2ad-5202bd4e4d4d,satiric.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,09/09/2026 21:51
 be5288b1-b0aa-4cc7-bdbf-854e36bf6f08,gao.rodeo,available,12.99,12.99,medium,low,3,namesilo,,,25/09/2026 06:16
+2fb6d462-e15b-47eb-a071-c0877bd39941,alec.rodeo,available,12.99,12.99,high,low,4,namesilo,,,28/09/2026 16:21
 3204570c-35d8-4355-8dd1-97f252d2cc9f,taal.rodeo,available,12.99,12.99,medium,low,4,namesilo,,,
 cfbe9f98-ec05-4ae8-8b16-75d29469b337,digitiser.rodeo,available,12.99,12.99,high,low,9,namesilo,,,19/09/2026 01:52
 d7df95ce-b58d-4a21-8a37-4dc1294e5807,apparition.rodeo,available,12.99,12.99,high,low,10,namesilo,,,08/09/2026 18:34
 003f5de8-c0cd-4851-90f7-e1f04dbbba82,grecian.rodeo,available,13.98,17.98,high,low,7,namecheap,,,20/08/2026 19:44
 f9d2b7d8-7ff1-43a8-b00e-b1925fa69ae3,herculean.rodeo,available,12.99,12.99,high,low,9,namesilo,,,21/08/2026 07:06
-844b26d5-b208-4adc-a8d5-0468330edc9f,always.rodeo,available,12.99,12.99,high,low,6,namesilo,,,
+844b26d5-b208-4adc-a8d5-0468330edc9f,always.rodeo,available,12.99,12.99,high,medium,6,namesilo,,,28/09/2026 12:09
 52acb24b-2d92-4cbf-99e8-72be9666fc30,trendy.rodeo,available,13.98,17.98,high,low,6,namecheap,,,11/09/2026 19:19
 df6af46c-5316-423b-b7aa-5d739814f801,cant.rodeo,available,12.99,12.99,medium,low,4,namesilo,,,13/09/2026 04:09
+8f956ddc-34be-4fb1-97a6-ba356c17aa38,pritchard.rodeo,available,13.98,17.98,medium,low,9,namecheap,,,28/09/2026 12:14
 ad26a084-5509-420a-a6b0-5b78bea5c6a0,diabetes.rodeo,available,12.99,12.99,high,low,8,namesilo,,,
 83c3b411-ccb9-4f22-8da9-d5844d7432df,adze.rodeo,available,12.99,12.99,medium,low,4,namesilo,,,17/09/2026 12:02
 651cbf82-2db3-476e-ba23-7a18761c6386,repentant.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,08/09/2026 14:32
@@ -56,12 +63,15 @@ af9d3716-46f9-4133-9a93-15d78c90ceb4,unborn.rodeo,available,12.99,12.99,high,low
 ea92e7f2-894e-44a9-9c2d-0b945dc368b3,tickling.rodeo,available,12.99,12.99,high,low,8,namesilo,,,11/09/2026 15:27
 3635083a-5056-4662-af8b-1490924db43d,cajole.rodeo,available,13.98,17.98,medium,low,6,namecheap,,,24/09/2026 04:10
 61f6e253-e1f5-4a24-ba7c-a93fa9adfa78,uniformly.rodeo,available,13.98,17.98,medium,low,9,namecheap,,,16/09/2026 10:05
+7229dc45-217f-4743-b717-77107d4c7636,mcneil.rodeo,available,10.92,10.92,high,medium,6,dynadot,,,28/09/2026 17:55
+98de541c-f4e7-4165-bf5e-b98491917dcb,hamid.rodeo,available,10.2,10.2,medium,low,5,cloudflare,,,28/09/2026 16:11
 beb6ebd8-9f50-40bd-aa70-b663c293f714,demoted.rodeo,available,12.99,12.99,low,low,7,namesilo,,,21/09/2026 05:02
 49567c36-fb23-4dcf-b6c1-9b258fcfcee2,bns.rodeo,available,12.99,12.99,high,low,3,namesilo,,,21/09/2026 14:15
 5165ea8b-14e8-4898-aa07-9a25c6530c8f,wiggly.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,10/09/2026 08:40
 98424efe-d70c-4349-b4bd-b5a17a533a3f,seeping.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,04/09/2026 15:36
 0122f665-477f-4ebd-ba11-4f5ec4b16ed8,lambent.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,
 3d81f303-6e90-4558-bdc0-a7a6811d2571,uncreative.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,12/09/2026 06:24
+2a9bc307-4c00-4495-be0f-5910f1bc7156,molly.rodeo,premium,41.6,10.55,high,low,5,spaceship,,,28/09/2026 14:53
 0709671c-6c95-40ad-a86b-6724b9a7cb46,safe.rodeo,available,10.58,10.58,high,medium,4,spaceship,,,27/09/2026 17:44
 970bcda7-2766-47c8-b5cc-e4d60583f3ac,stating.rodeo,available,12.99,12.99,high,low,7,namesilo,,,
 074889ed-f15e-446f-bc6b-6b8ae452f141,transcend.rodeo,available,12.99,12.99,high,low,9,namesilo,,,11/09/2026 17:23
@@ -80,10 +90,11 @@ c279bb9b-19bd-4f77-9e9c-3a3c4d23bb96,viktor.rodeo,available,10.58,10.58,medium,l
 aaa2f92f-858c-4396-ab9a-f0be9a4e0bc9,cake.rodeo,available,13.98,17.98,high,low,4,namecheap,,,27/09/2026 02:19
 0cf81d35-0e4a-453b-891a-7db1fc7be22b,flamboyant.rodeo,available,12.99,12.99,high,low,10,namesilo,,,22/09/2026 12:57
 21e388a4-0ea5-4e27-89ed-64bd0921742f,colleagues.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,18/09/2026 23:15
+53317c34-7950-4127-85eb-42dc0cce41fb,placing.rodeo,available,10.58,10.58,medium,low,7,spaceship,,,28/09/2026 21:04
 34491af4-d425-4ead-a95e-b3b8ed62ef35,nostrils.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,
 b98c8bb7-c90e-4314-ae07-1835670db659,nookie.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,18/08/2026 17:31
 700276c1-0b38-4ac1-b705-21e742808af3,bedsit.rodeo,available,13.98,17.98,medium,low,6,namecheap,,,22/09/2026 23:36
-403c1335-ab9f-42c9-a331-7f21cd565195,alaska.rodeo,premium,96,11.8,high,low,6,namesilo,,,
+403c1335-ab9f-42c9-a331-7f21cd565195,alaska.rodeo,premium,96,11.8,high,low,6,namesilo,,,28/09/2026 19:46
 82297039-5023-47b2-b98c-19a23bb9a9d1,flack.rodeo,available,12.99,12.99,medium,low,5,namesilo,,,
 bb71e831-016a-4fa5-8c59-9bf13b16bc92,aerophagia.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,17/09/2026 13:11
 9c7ef685-524a-4f55-b45e-347b1f22fd58,role.rodeo,available,12.99,12.99,high,low,4,namesilo,,,25/09/2026 09:54
@@ -93,6 +104,7 @@ bb71e831-016a-4fa5-8c59-9bf13b16bc92,aerophagia.rodeo,available,12.99,12.99,medi
 373eba1e-2d79-43cc-b931-3271a83b21d9,silently.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,15/09/2026 15:52
 53540782-63b5-4675-ba55-95625bd1b4c3,unhallowed.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,12/09/2026 11:49
 02e241ca-9c56-44b9-9af9-9655084f0ad0,curie.rodeo,available,12.99,12.99,high,low,5,namesilo,,,12/08/2026 08:00
+06e4a4bc-aa54-408d-b3d4-b5b800a61961,maury.rodeo,premium,41.6,10.55,medium,low,5,spaceship,,,29/09/2026 03:39
 8bb8aeae-19f2-484c-bc9a-af7a5f680d96,ductless.rodeo,available,13.98,17.98,medium,low,8,namecheap,,,14/08/2026 20:54
 a5316914-22c5-409b-a0ea-2ac153af93fd,simpleness.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,24/09/2026 13:51
 1a4382f2-d9ac-48b9-884e-694b958f477c,bearskin.rodeo,available,16.99,16.99,high,low,8,name.com,,,22/09/2026 21:25
@@ -105,7 +117,7 @@ da4123ef-f5a7-458a-b029-702062192cce,drifting.rodeo,available,13.98,17.98,high,l
 5b8bc265-fa80-4b9f-921f-946cda66bd2b,congolese.rodeo,available,12.99,12.99,high,low,9,namesilo,,,12/08/2026 21:54
 1ad75f8e-c94a-4e36-afe8-1abfe4e846b1,rope.rodeo,premium,96,11.8,high,low,4,namesilo,,,25/09/2026 22:52
 ef271328-f3c0-42ca-93ec-e637fbcffc6c,blok.rodeo,available,12.99,12.99,high,low,4,namesilo,,,18/09/2026 05:01
-9ecf2689-1a24-456e-adb2-eda2ec6fa391,baseball.rodeo,premium,96,11.8,high,low,8,namesilo,,,
+9ecf2689-1a24-456e-adb2-eda2ec6fa391,baseball.rodeo,premium,83,10.55,high,low,8,spaceship,,,29/09/2026 01:20
 f13addc0-b930-4f60-bd6b-a944200846b5,delusive.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,14/08/2026 00:53
 643dcb8e-06d9-4dd8-b576-ab4ffdae0392,schweitzer.rodeo,available,12.99,12.99,high,low,10,namesilo,,,18/09/2026 02:40
 ca40ea79-5619-4d10-9970-577bcce869e8,floors.rodeo,available,10.58,10.58,medium,low,6,spaceship,,,27/09/2026 22:02
@@ -113,26 +125,34 @@ ca40ea79-5619-4d10-9970-577bcce869e8,floors.rodeo,available,10.58,10.58,medium,l
 11999ad2-c5fe-4ad6-b589-7b2001fa5c21,legendary.rodeo,available,13.98,17.98,high,low,9,namecheap,,,17/08/2026 20:13
 66be785e-e593-44f1-b6d0-1a0a47788171,lavatory.rodeo,available,12.99,12.99,high,low,8,namesilo,,,09/09/2026 02:14
 fbe71df0-fc47-44b9-906b-07cabbdc6608,trend.rodeo,available,13.98,17.98,high,low,5,namecheap,,,27/09/2026 20:56
+69b08e62-3fe6-4c2f-b426-c201a86d3a02,elmira.rodeo,available,10.2,10.2,medium,low,6,cloudflare,,,28/09/2026 16:42
 08191e0b-4941-44ab-b663-2dba5a2ec720,restore.rodeo,available,10.58,10.58,high,low,7,spaceship,,,28/09/2026 01:17
+6a87da81-1bf8-4716-8740-7d037096789d,mattress.rodeo,available,10.58,10.58,high,low,8,spaceship,,,28/09/2026 19:51
 620b2743-9946-4e3d-9222-f63a49197585,wants.rodeo,available,13.98,17.98,medium,low,5,namecheap,,,25/09/2026 17:58
 b6e6911e-5466-48ca-9137-2d8669d8d075,toffy.rodeo,available,12.99,12.99,medium,low,5,namesilo,,,11/08/2026 04:55
 667a89af-6f96-40b4-a8b4-0e073bf00eb2,treachery.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,23/09/2026 11:23
 8a6179b1-b663-4134-ba5d-074025a0f2ca,shun.rodeo,available,13.98,17.98,high,low,4,namecheap,,,24/09/2026 02:00
 b24645b6-395b-41eb-8680-b9055149ce30,acarpelous.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,
+547a031b-9ddb-4fe2-ba35-fc2e45a9859a,peyton.rodeo,available,10.2,10.2,medium,low,6,cloudflare,,,28/09/2026 18:24
 4fabdfeb-e9d2-4045-991c-637348e1b0ff,kimberly.rodeo,premium,44,10.92,medium,low,8,dynadot,,,28/09/2026 08:56
 2848b72f-a49d-4ddb-b518-727a187b2ca7,elysian.rodeo,available,12.99,12.99,high,low,7,namesilo,,,16/08/2026 06:18
 d07154fc-e32a-483d-a61a-c5b7bf423434,illusory.rodeo,available,13.98,17.98,medium,low,8,namecheap,,,21/08/2026 20:15
 8546b9ed-71b4-4a0b-9389-94a23981daf1,yearner.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,15/09/2026 12:51
+84eab56c-61fa-4ad1-b973-9bc032735c72,mojave.rodeo,available,10.58,10.58,high,low,6,spaceship,,,28/09/2026 19:54
 5382d4eb-fb0f-4bab-9af3-14430bf294f0,dana.rodeo,available,12.99,12.99,high,low,4,namesilo,,,25/09/2026 22:21
+be11ee07-9371-4e6f-a23e-061db686f3e6,crystals.rodeo,available,10.2,10.2,medium,low,8,cloudflare,,,29/09/2026 04:45
 1d9311f4-e739-4f18-ae28-36e4327a8914,ashland.rodeo,premium,47.2,11.8,high,low,7,namesilo,,,27/09/2026 08:14
 8b666214-94ee-4104-9614-c4d8abc5a41f,uniate.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,12/09/2026 12:42
 2e84b940-74bb-4ffc-ade3-b2e27b2170b4,you.rodeo,premium,96,11.8,high,medium,3,namesilo,,,
 063cf139-1961-4c19-952e-352d9b1878d6,fortuitous.rodeo,available,12.99,12.99,high,low,10,namesilo,,,18/08/2026 12:43
+246ed43f-db25-41ae-8845-7e3a6574974b,logs.rodeo,available,10.58,10.58,medium,low,4,spaceship,,,28/09/2026 17:47
 df5536f7-64ca-444c-94c0-22da2503a457,kingsley.rodeo,available,10.81,10.81,medium,low,8,porkbun,,,27/09/2026 20:56
 4f88dd80-1864-49c7-8afa-e97a6ffcc4d5,kane.rodeo,premium,47.2,11.8,high,low,4,namesilo,,,27/09/2026 07:59
+9d4f4b31-6d35-4206-8a4d-e5acac9d92d2,pupil.rodeo,available,12.99,12.99,high,low,5,namesilo,,,28/09/2026 09:33
 fdd56967-28ff-4a36-ae08-13579b6e3ccb,rife.rodeo,available,13.98,17.98,medium,low,4,namecheap,,,04/09/2026 20:07
 cefba71b-e14c-4a40-95bb-f7b546339f65,whips.rodeo,available,13.98,17.98,medium,low,5,namecheap,,,17/09/2026 19:42
 28f53613-e71d-473f-8990-83128b39f686,asparagus.rodeo,available,12.99,12.99,high,low,9,namesilo,,,20/09/2026 14:40
+164c05af-bf21-437e-ae3a-0b41a474c627,tracey.rodeo,available,10.81,10.81,medium,low,6,porkbun,,,28/09/2026 21:51
 5ce862cc-327f-46b1-a905-edc0b7ff52b4,ambivalence.rodeo,available,12.99,12.99,high,low,11,namesilo,,,
 93a48876-289a-405b-b5a8-bf47161475a9,turnabout.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,
 e98c5d88-209f-4328-baf2-19d817d42f4d,unchecked.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,12/09/2026 04:32
@@ -142,6 +162,7 @@ bcc3199f-c398-4edb-afb3-836da70815e4,advertising.rodeo,available,13.98,17.98,hig
 0a138ba6-752a-4de8-ae5d-52d334c9a908,digging.rodeo,available,10.58,10.58,high,low,7,spaceship,,,27/09/2026 13:02
 9350cf97-1f95-45db-803e-a7d2584dae98,gratuitous.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,13/08/2026 03:14
 f4d743fe-be50-402d-9c2a-5670c515cbaa,variant.rodeo,available,12.99,12.99,high,low,7,namesilo,,,13/09/2026 01:15
+186b4115-de1a-49fd-8d29-a3fc8922ad7e,erp.rodeo,available,10.58,10.58,high,medium,3,spaceship,,,28/09/2026 21:45
 b531995d-bbd8-48d8-bc50-d32af6fb0775,alembic.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,18/09/2026 05:10
 4006982f-068b-45d5-a207-aebdc29a4c8c,songwriter.rodeo,available,12.99,12.99,high,low,10,namesilo,,,21/09/2026 22:37
 37230f2f-21e8-4c97-8ec8-b6184137f303,suggested.rodeo,available,13.98,17.98,medium,low,9,namecheap,,,18/09/2026 13:48
@@ -162,17 +183,18 @@ c2f4f4e9-58f0-4cd2-97c9-b576fe379275,milksop.rodeo,available,12.99,12.99,medium,
 d529a6c1-6fdd-4f13-a98c-c0600c2ab85e,jensen.rodeo,available,16.99,16.99,high,low,6,name.com,,,25/09/2026 07:58
 9415f77b-bd2e-4596-a80d-d10516a1cdb1,wintry.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,18/08/2026 16:31
 cc85f712-071a-49ca-97a3-70c1a0f2ec0f,latakia.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,18/09/2026 01:28
+6a295447-acc5-4901-9544-dc8b48917d8b,manslaughter.rodeo,available,10.81,10.81,medium,low,12,porkbun,,,28/09/2026 22:46
 9357e727-45ab-4e4e-b518-0902a271e9d8,stainable.rodeo,available,13.98,17.98,low,low,9,namecheap,,,10/09/2026 18:12
 f61763e8-2265-49a2-ada1-5b8b8ea33ade,autogiro.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,21/09/2026 06:22
 19dee857-05ae-4155-82c0-963f056251fa,cave.rodeo,available,12.99,12.99,high,low,4,namesilo,,,24/09/2026 13:21
-477b3fec-e40e-45e4-828f-28f9a1d998c2,calculation.rodeo,available,12.99,12.99,high,low,11,namesilo,,,25/09/2026 04:46
+477b3fec-e40e-45e4-828f-28f9a1d998c2,calculation.rodeo,available,10.2,10.2,medium,low,11,cloudflare,,,28/09/2026 12:48
 867b58de-6cab-49c0-b0d6-4abf83a17831,sunken.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,13/08/2026 22:55
 6cca81c4-7825-43d4-94b0-dc022c7bfb17,platelike.rodeo,available,13.98,17.98,high,low,9,namecheap,,,08/09/2026 20:17
 71d3b644-24b3-41e0-8a72-30caec5d3efd,allocator.rodeo,available,13.98,17.98,high,low,9,namecheap,,,18/09/2026 11:47
 3992c398-2cca-4d7b-b216-87920d5c99b9,conflict.rodeo,available,13.98,17.98,high,low,8,namecheap,,,22/09/2026 14:40
 c76c036b-87db-4672-b94f-4a16ec4a9d55,ballock.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,21/09/2026 23:03
 38115245-135b-4b3c-bf14-cb4e5f0b85c1,wobbling.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,13/09/2026 12:52
-bac10fc1-2af2-4812-bc1c-55f99c91f7c3,wellness.rodeo,available,12.99,12.99,high,medium,8,namesilo,,,25/09/2026 02:52
+bac10fc1-2af2-4812-bc1c-55f99c91f7c3,wellness.rodeo,available,10.58,10.58,high,medium,8,spaceship,,,28/09/2026 10:55
 1ba75924-00d3-4452-a6e9-93432dd55569,perfidy.rodeo,available,13.98,17.98,medium,low,7,namecheap,,,23/09/2026 11:25
 bedd58c2-435b-4c8c-bc83-f5369dafbb75,drizzling.rodeo,available,13.98,17.98,medium,low,9,namecheap,,,14/08/2026 19:38
 22789a39-3b70-4ce2-9852-fce1e4c0d8de,traveler.rodeo,available,12.99,12.99,high,low,8,namesilo,,,
@@ -182,23 +204,26 @@ d373eb9a-7f02-48cf-9faa-a3587213b028,brazilian.rodeo,premium,242,11.8,high,low,9
 8d47c4a2-1b44-4b70-96be-e850714a3892,pouf.rodeo,available,12.99,12.99,high,low,4,namesilo,,,09/09/2026 08:13
 edcafffe-3197-45fb-95be-22fc98f74eb4,tomboys.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,20/09/2026 23:15
 c87fb04a-a3fd-47ac-9374-ea33ae7259ac,babylonia.rodeo,available,13.98,17.98,high,low,9,namecheap,,,21/09/2026 13:51
+849cf2c5-33a5-4b50-bb2f-7ad5eca12827,expansion.rodeo,available,10.58,10.58,high,low,9,spaceship,,,28/09/2026 19:05
 ba825cbe-b0b3-4487-bfa7-8447ff461955,sugared.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,11/09/2026 01:16
 d6524416-91bc-4cb2-b0f2-7c52f07c657e,askance.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,07/08/2026 02:56
 410c16d0-68e7-469f-8bf8-18f2005128a6,subtly.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,16/09/2026 07:33
 1e6ac3f6-b0bd-474b-bbcf-dd85871bd53e,imported.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,21/08/2026 22:48
 dfb01e6c-e788-4139-a783-da490a40cc12,tornadoes.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,16/09/2026 14:14
 a3935940-8378-47d3-99cb-109370021db4,expressly.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,14/09/2026 17:09
+4ff6a666-2840-4e2b-a7dd-557ba6fb1453,herzog.rodeo,available,10.92,10.92,high,low,6,dynadot,,,28/09/2026 16:13
 d68f8999-1f68-4960-8c10-f318a6a7e319,icon.rodeo,available,12.99,12.99,high,medium,4,namesilo,,,
 c16d9f31-9e44-493f-bf64-f61507c913cb,exhale.rodeo,available,12.99,12.99,high,low,6,namesilo,,,
 80c4b2d2-932a-463d-9eba-1e345e3135dc,mistaken.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,25/08/2026 01:52
 9e65f274-0128-4a69-ad8e-589a03087e18,tyro.rodeo,available,12.99,12.99,high,low,4,namesilo,,,23/09/2026 02:27
 33ca3a18-3688-4741-98ac-43ca9be08c91,zoonotic.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,13/09/2026 15:35
+6f20f40c-2eaa-4571-bc7a-8ebd0f252163,por.rodeo,available,10.92,10.92,medium,low,3,dynadot,,,28/09/2026 21:27
 a0a20572-1ab7-4096-9161-fd93588b1c85,stabilized.rodeo,available,13.98,17.98,medium,low,10,namecheap,,,10/09/2026 17:54
 ff35a1f2-bccd-490b-8a26-b88d8de27a49,trine.rodeo,available,12.99,12.99,medium,low,5,namesilo,,,
 03378bed-ba0a-4e5e-a3cf-2a725d4d891e,proximate.rodeo,available,12.99,12.99,high,low,9,namesilo,,,09/09/2026 04:46
 db5ee223-1156-440f-ab59-653dd20327de,salacious.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,23/08/2026 00:40
 cfef367a-24a7-40e4-b206-310bf6b5e547,shoplift.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,
-858757ad-b016-4032-931e-47c1484d229f,blob.rodeo,available,12.99,12.99,high,low,4,namesilo,,,
+858757ad-b016-4032-931e-47c1484d229f,blob.rodeo,available,10.58,10.58,medium,low,4,spaceship,,,29/09/2026 02:58
 4ef4a99f-afe1-42b1-b5cf-76cebc540f6a,appreciated.rodeo,available,10.58,10.58,high,low,11,spaceship,,,28/09/2026 07:22
 4d18f0da-56a7-4f6a-8c2a-0933d285c89d,anderson.rodeo,premium,47.2,11.8,high,medium,8,namesilo,,,19/09/2026 04:34
 827085a1-aa4f-46f8-8e5d-c7b9423c912c,focus.rodeo,available,12.99,12.99,high,medium,5,namesilo,,,19/09/2026 06:53
@@ -220,6 +245,7 @@ cb0b87e9-26b1-4ad6-bb78-b7d53f4226a2,defensive.rodeo,available,12.99,12.99,high,
 05b68be9-11ec-491a-82eb-511f58ae17e1,knobby.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,22/08/2026 16:29
 7fd6d8c4-6d32-4a1b-8825-d98c3f5f0f85,lxxv.rodeo,available,13.98,17.98,medium,low,4,namecheap,,,
 32527457-7e0e-48a0-8fac-76df348fc60a,bmus.rodeo,available,12.99,12.99,medium,low,4,namesilo,,,21/09/2026 14:14
+27ff4175-f57a-467d-9711-8d6845090f45,predator.rodeo,available,10.92,10.92,medium,low,8,dynadot,,,28/09/2026 14:50
 71d0880d-2784-481d-8ab4-61cecf600c0c,untreated.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,12/09/2026 21:44
 2fb20ab0-3caf-4733-8013-75437a197b50,belisarius.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,23/09/2026 05:17
 cd30ca5c-3eae-455d-b91f-7ce50b8a8128,prayerful.rodeo,available,12.99,12.99,high,medium,9,namesilo,,,09/09/2026 01:05
@@ -230,10 +256,12 @@ af320c18-65bf-495e-a59f-3c477646bade,adventist.rodeo,available,12.99,12.99,high,
 eba00eb9-dc1c-4eef-b193-cce5f34a5e2e,diaper.rodeo,available,12.99,12.99,high,low,6,namesilo,,,03/09/2026 13:09
 76acfa14-8bbb-4d96-bcd4-6776dff5f2d8,beneficent.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,09/08/2026 14:22
 b67b758b-13fd-4992-bd8a-885cead2e3d7,afflatus.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,17/09/2026 14:39
+532a00c1-19a5-4c2f-8089-652263b82391,alvarado.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,28/09/2026 16:06
 8061dc35-4719-4692-ac3c-6fc3417ad3c9,affections.rodeo,available,13.98,17.98,medium,low,10,namecheap,,,17/09/2026 07:05
 bde6f920-83a3-4b89-9000-e5266f455e2e,wajda.rodeo,available,12.99,12.99,medium,low,5,namesilo,,,19/09/2026 05:01
 2fbcc011-864b-4f7d-8b7d-8a6332388886,gravy.rodeo,available,12.99,12.99,high,low,5,namesilo,,,24/09/2026 11:11
 2c792599-1552-4765-a304-88b56db07bd4,overstep.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,11/09/2026 17:25
+ff20b735-3f4d-4ac6-89ae-7ba9353b413a,refrain.rodeo,available,10.58,10.58,high,low,7,spaceship,,,28/09/2026 20:16
 b2366c14-9ae2-4917-a421-003de5dc20af,newborn.rodeo,available,12.99,12.99,high,low,7,namesilo,,,03/09/2026 16:41
 0ff8ef72-04fe-4f08-b431-a23183922f90,gloomy.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,14/08/2026 11:40
 f5148c2c-b27f-4b9c-8345-3ebba428da89,billion.rodeo,available,12.99,12.99,high,low,7,namesilo,,,22/09/2026 20:43
@@ -241,11 +269,12 @@ f5148c2c-b27f-4b9c-8345-3ebba428da89,billion.rodeo,available,12.99,12.99,high,lo
 140930c6-30e9-4528-9623-241dc0045c20,handled.rodeo,available,12.99,12.99,high,low,7,namesilo,,,20/08/2026 23:28
 5c03b595-eb81-4271-83c8-8ef9506326dd,madame.rodeo,available,12.99,12.99,high,low,6,namesilo,,,28/09/2026 06:18
 591fc925-65ca-4714-adec-79561b024695,translation.rodeo,available,12.99,12.99,high,low,11,namesilo,,,
-e295edc1-c991-4598-9f32-131359b27463,movement.rodeo,available,16.99,,high,low,8,name.com,,,
+e295edc1-c991-4598-9f32-131359b27463,movement.rodeo,available,10.2,10.2,high,low,8,cloudflare,,,28/09/2026 21:51
 cfc5401a-07e9-4730-8987-1fda422e25ed,deeper.rodeo,available,12.99,12.99,high,low,6,namesilo,,,17/09/2026 12:06
 b5e68afd-52e1-4231-b92b-889f231348ec,alchemy.rodeo,available,13.98,17.98,high,medium,7,namecheap,,,18/09/2026 03:59
 3113a725-1544-48b4-9924-5773f104b955,euphonious.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,17/08/2026 14:17
 718ff07e-b129-490c-a764-23dd1d24bfcf,because.rodeo,available,12.99,12.99,high,low,7,namesilo,,,
+39d7fb50-a6b8-4f8c-a4f8-3bda1d18e7e6,morristown.rodeo,available,10.92,10.92,medium,low,10,dynadot,,,29/09/2026 01:41
 c306edc7-7682-49b9-81bb-209dd6ba533d,keller.rodeo,available,12.99,12.99,high,low,6,namesilo,,,25/09/2026 07:11
 d7dca459-416f-45dd-b35b-a28ed09f81c0,aftershock.rodeo,available,13.98,17.98,medium,low,10,namecheap,,,17/09/2026 15:51
 f72b14f5-fbe8-4ac3-95d1-4e98c0ab3cde,tenable.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,11/09/2026 11:08
@@ -268,7 +297,7 @@ d907abfc-c18d-4dc9-ada0-f414af4071dc,awkwardly.rodeo,available,12.99,12.99,mediu
 2386dfdb-3c66-4c21-b7fe-948dc9ccc934,diplomacy.rodeo,available,12.99,12.99,high,low,9,namesilo,,,
 50862c33-4167-4ebc-9e89-f209c2ed4dce,traumatic.rodeo,available,13.98,17.98,high,low,9,namecheap,,,11/09/2026 19:03
 23bea6dc-feae-4f4c-9dcb-1e92632575b2,false.rodeo,available,12.99,12.99,high,low,5,namesilo,,,22/09/2026 10:15
-1cbb2dd1-9079-4de6-b338-fc8dc50aa650,wide.rodeo,available,13.98,17.98,high,low,4,namecheap,,,21/09/2026 16:15
+1cbb2dd1-9079-4de6-b338-fc8dc50aa650,wide.rodeo,available,10.58,10.58,high,low,4,spaceship,,,28/09/2026 16:18
 012f3d4d-eb59-4b73-989a-4fe7464928d4,pasted.rodeo,available,12.99,12.99,high,low,6,namesilo,,,20/08/2026 15:14
 d8f578fc-ebb8-438c-856e-e32d5a623325,arboreal.rodeo,available,12.99,12.99,high,low,8,namesilo,,,06/08/2026 13:18
 44e9e892-abc4-4ac7-b882-4c8506d92f06,uncanny.rodeo,available,12.99,12.99,high,low,7,namesilo,,,16/08/2026 02:23
@@ -278,11 +307,13 @@ c6d7a077-93ac-4f2e-8b62-75ec5d54957a,accountant.rodeo,available,12.99,12.99,high
 61344d06-7a19-4c24-815d-e94cbf5aa579,aquaplane.rodeo,available,13.98,17.98,medium,low,9,namecheap,,,19/09/2026 22:59
 e453e884-ae43-4663-a531-45b26a0535bf,batten.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,22/09/2026 14:27
 30c87d69-7dca-45cf-b78c-36991eec7fce,occident.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,13/09/2026 10:49
+898e8ede-456e-4a3f-9eee-4f8506ed7799,wilderness.rodeo,available,10.58,10.58,high,low,10,spaceship,,,28/09/2026 15:33
 644bbe1e-bfb6-424f-bc34-cd645b3db944,firedog.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,19/09/2026 04:06
 9bfdefaa-b305-4ce8-8bee-7f0a3b06cf6a,preferably.rodeo,available,13.98,17.98,medium,low,10,namecheap,,,15/09/2026 21:14
 1c86105d-67bc-421c-ac4f-58ed787c2bb1,treasonous.rodeo,available,13.98,17.98,medium,low,10,namecheap,,,17/08/2026 21:20
 0fbd2050-3bfa-4239-925a-fa059eaba849,reviewers.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,21/09/2026 09:06
 a9548c98-e57e-4e98-ae42-1ba931ee7f11,chatham.rodeo,premium,47.2,11.8,medium,low,7,namesilo,,,25/09/2026 15:25
+95fdb050-b4fd-4619-b5f6-16d566a199b1,tuck.rodeo,available,13.98,17.98,medium,low,4,namecheap,,,28/09/2026 15:12
 99c8481f-63e7-4106-a6f5-5ea640b34668,pouched.rodeo,available,12.99,12.99,high,medium,7,namesilo,,,09/09/2026 00:55
 197942fc-f1b5-418c-8b70-04c988a85df7,tricuspid.rodeo,available,13.98,17.98,medium,low,9,namecheap,,,11/09/2026 19:29
 af541d7f-717d-4d53-9991-02dbbf13b1cc,coaxial.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,12/08/2026 14:16
@@ -300,9 +331,12 @@ a576e3b8-11ed-4b18-bdd5-8fa33209b483,catclaw.rodeo,available,12.99,12.99,medium,
 a10e28d2-683b-4d8d-a29b-4530819bc372,overmuch.rodeo,available,13.98,17.98,medium,low,8,namecheap,,,04/09/2026 21:13
 e2265506-5dcf-477b-b93a-46509f5231bf,scalic.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,09/09/2026 22:27
 78f81bd2-0b84-4519-b8a4-cb3d712f4067,paste.rodeo,available,16.99,,high,low,5,name.com,,,
+1f61f7e4-7718-4b87-a7b9-5219023bf0a0,professionals.rodeo,available,10.58,10.58,high,low,13,spaceship,,,28/09/2026 12:40
 e530ffa0-503c-4b6d-bd61-a4adce2376c2,homoerotic.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,21/08/2026 12:51
+2132c71c-d32b-438e-904a-128c46abd5e2,lone.rodeo,available,12.99,12.99,medium,low,4,namesilo,,,28/09/2026 22:59
+3e7a5d51-b64c-46c1-9710-60f516978067,omaha.rodeo,premium,87.86,11.44,high,low,5,porkbun,,,28/09/2026 14:49
 5eea0fb8-73b3-44c7-a4a7-91dc34181443,redemptory.rodeo,available,12.99,12.99,high,medium,10,namesilo,,,09/09/2026 12:20
-ada3b0cf-d481-4e5a-8d26-e7bdd1dc246c,punter.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,
+ada3b0cf-d481-4e5a-8d26-e7bdd1dc246c,punter.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,29/09/2026 02:17
 dc5cc572-d4b1-44a3-9ccf-b643cfa174f5,awol.rodeo,available,12.99,12.99,high,low,4,namesilo,,,08/08/2026 01:46
 f0efbb07-90b6-4b2b-9e11-41dbdf9f41fc,unitary.rodeo,available,12.99,12.99,high,low,7,namesilo,,,12/09/2026 13:58
 af31d38c-2a26-494b-a8f7-814910853d8a,dike.rodeo,available,12.99,12.99,medium,low,4,namesilo,,,11/08/2026 11:33
@@ -310,10 +344,11 @@ b153254e-430e-425e-b347-277f308d6c80,melrose.rodeo,available,10.2,10.2,medium,lo
 398f4f1c-99a8-4007-9929-4e776c95febc,inhale.rodeo,available,12.99,12.99,high,low,6,namesilo,,,
 3f28b84e-2ac8-4e49-9ab6-97fce5ba9caf,adventures.rodeo,available,12.99,12.99,high,low,10,namesilo,,,18/09/2026 17:22
 0f0e1411-d6da-4083-a8d6-4800e27328bd,trex.rodeo,available,12.99,12.99,high,low,6,namesilo,,,18/09/2026 12:51
-ea3a9026-85e8-49a4-a3f3-3d34099abd21,candy.rodeo,premium,242,11.8,high,medium,5,namesilo,,,25/09/2026 22:17
+ea3a9026-85e8-49a4-a3f3-3d34099abd21,candy.rodeo,premium,207.2,10.55,high,medium,5,spaceship,,,28/09/2026 14:55
 e97ce6cf-5ed8-406f-933f-76b0cb40794e,punctually.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,14/09/2026 14:45
 373cdc83-fb83-4d19-ac42-038057fceb97,foamy.rodeo,available,12.99,12.99,high,low,5,namesilo,,,11/08/2026 07:20
 700155fa-70be-40a4-b615-cf3e6f9eda1d,russet.rodeo,available,13.98,17.98,high,low,6,namecheap,,,09/09/2026 20:06
+aef6f398-d516-4415-92b0-41409dd8fc99,stubbs.rodeo,available,10.58,10.58,medium,low,6,spaceship,,,28/09/2026 20:34
 88443b31-56f9-47b1-96c6-1f3039b95106,workmanship.rodeo,available,12.99,12.99,high,low,11,namesilo,,,16/09/2026 08:15
 60d44a50-fdf8-457e-b2f3-2d77aa5e8667,bale.rodeo,available,13.98,17.98,medium,low,4,namecheap,,,21/09/2026 21:49
 bed44f77-8003-4f75-af35-991749662eb1,almoner.rodeo,available,13.98,17.98,medium,low,7,namecheap,,,18/09/2026 12:40
@@ -323,15 +358,20 @@ bed44f77-8003-4f75-af35-991749662eb1,almoner.rodeo,available,13.98,17.98,medium,
 812fbbc7-1fbc-495b-85a3-1e2ad169ba42,supported.rodeo,available,12.99,12.99,high,low,9,namesilo,,,28/09/2026 02:01
 030b6a12-0b3b-485c-b1e7-add8de918cad,cochrane.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,27/09/2026 01:53
 dfa8d8a1-b0e7-48a7-bb7f-c1a8bb9dd55e,neighbours.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,18/09/2026 07:42
+ec9124df-0039-4001-be19-ff8d2f4854f4,mcdaniel.rodeo,available,10.58,10.58,medium,low,8,spaceship,,,29/09/2026 04:34
+c4672f8c-68f0-43f8-b1e7-fc3d060c8595,remark.rodeo,available,10.81,10.81,high,low,6,porkbun,,,28/09/2026 09:26
 ecf18723-8115-4da1-bb1a-37139a459e09,bishop.rodeo,available,13.98,17.98,high,low,6,namecheap,,,23/09/2026 21:47
 2c1c8c74-b133-4192-890b-d13dd43dd2e1,honeyed.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,21/08/2026 13:23
 eea56d30-90f6-4683-8ec8-7385457098f7,breakfasts.rodeo,available,13.98,17.98,medium,low,10,namecheap,,,20/09/2026 13:21
 cd2d2038-d6fe-4fe5-be02-7462b96d642b,bandana.rodeo,available,12.99,12.99,high,low,7,namesilo,,,22/09/2026 00:59
 c08dbce9-d22e-4118-a191-1a9a8dc5c408,loquacious.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,12/08/2026 03:22
+98259457-bc23-4cdd-a2b0-9884f24d8e9b,inuit.rodeo,available,12.99,12.99,medium,low,5,namesilo,,,28/09/2026 09:42
 acc11df3-ed5f-4951-8207-f710a991e50e,condiment.rodeo,available,12.99,12.99,high,low,9,namesilo,,,
 e26dc3ab-b08e-4678-ba49-7f67def3e433,suety.rodeo,available,12.99,12.99,low,low,5,namesilo,,,11/09/2026 01:08
 106c2e97-efb7-4f6a-88f5-63d8e976b2ff,arabia.rodeo,available,12.99,12.99,high,low,6,namesilo,,,19/09/2026 23:29
 b36b813f-af7a-4724-a13d-3625c9776e57,drained.rodeo,available,13.98,17.98,medium,low,7,namecheap,,,14/08/2026 18:17
+21a7ada5-a5aa-4fca-b36c-2ecc9bfe733a,dalton.rodeo,available,10.58,10.58,high,low,6,spaceship,,,28/09/2026 13:51
+1fdea181-0448-457f-b46d-3d925c46a9d4,elisa.rodeo,available,10.58,10.58,high,low,5,spaceship,,,28/09/2026 09:35
 4bc4fbc1-fedb-46f8-a460-20dd8bb95363,alcibiades.rodeo,available,13.98,17.98,medium,low,10,namecheap,,,18/09/2026 04:00
 3cc1c26b-a912-4a19-b1eb-141726f10121,downstage.rodeo,available,13.98,17.98,high,low,9,namecheap,,,14/08/2026 17:53
 f80b2366-a739-436f-a16e-6d0350948666,kooky.rodeo,available,13.98,17.98,medium,low,5,namecheap,,,06/08/2026 21:04
@@ -340,12 +380,13 @@ d81ed763-ccb5-4a64-ace2-3f9548313d6e,dubstep.rodeo,available,12.99,12.99,high,lo
 729a7159-efc3-4ca4-ac99-87dab021e19e,crosby.rodeo,premium,47.2,11.8,high,low,6,namesilo,,,23/09/2026 17:15
 e4dc4740-0de9-4010-9726-03898e63f6d0,borrowed.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,27/09/2026 09:49
 8471c639-e5e4-4aa8-a03d-9d5bf9680506,noisome.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,18/08/2026 02:29
+b6ac67d5-784d-4e3f-af5b-130ecb6d03d1,moser.rodeo,available,10.58,10.58,medium,low,5,spaceship,,,29/09/2026 03:32
 5c124053-77d7-41ed-a650-cf8ee507b60c,analyser.rodeo,available,12.99,12.99,high,low,8,namesilo,,,19/09/2026 01:57
 842ecc41-8710-46fa-974e-cb579c081bb3,kenny.rodeo,available,12.99,12.99,medium,low,5,namesilo,,,26/09/2026 03:38
 a8b9d02e-8d07-4b7a-82ca-8ba48c7d3615,seed.rodeo,available,12.99,12.99,high,low,4,namesilo,,,
 4c36725a-7342-48e4-8388-1d805a08f983,emulator.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,19/09/2026 16:28
 3bd2d01c-b07b-4cbf-b906-afb945427149,drumhead.rodeo,available,13.98,17.98,medium,low,8,namecheap,,,14/08/2026 20:15
-ec2d0a8e-13d2-4cae-82f8-c52cd50308ab,hawaii.rodeo,premium,96,11.8,high,low,6,namesilo,,,
+ec2d0a8e-13d2-4cae-82f8-c52cd50308ab,hawaii.rodeo,premium,83,10.55,high,low,6,spaceship,,,28/09/2026 20:42
 2d097137-f47f-4c0f-9ff3-a47a82048da6,redress.rodeo,available,12.99,12.99,high,low,7,namesilo,,,09/09/2026 17:27
 c2b8eb60-1adc-4baa-8e47-e7f333ea3937,benefice.rodeo,available,12.99,12.99,high,low,8,namesilo,,,23/09/2026 07:54
 499148db-4bd8-4f8d-b08a-9a79db20de6f,idly.rodeo,available,12.99,12.99,high,low,4,namesilo,,,15/09/2026 01:38
@@ -354,8 +395,10 @@ f58df80e-b2c9-4120-855d-71f8a6ccab29,waning.rodeo,available,12.99,12.99,medium,l
 2149fded-6082-4212-8528-07e2a0b0436a,anaconda.rodeo,available,12.99,12.99,high,medium,8,namesilo,,,19/09/2026 01:07
 15a15506-cec1-4ef5-8d7c-b2f0fd4a9e3a,pictured.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,14/08/2026 02:14
 5ccd4091-b34c-475d-bc3b-c2e4a1831b65,challenge.rodeo,available,12.99,12.99,high,low,9,namesilo,,,
+1f3ca092-63bb-4294-9acd-7e16ae5f5b7d,sms.rodeo,available,12.99,12.99,high,medium,3,namesilo,,,28/09/2026 11:46
 1cb0888d-d596-43fe-91a4-8b2c225f2c7c,cresson.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,13/08/2026 06:16
 15d6c2e6-1b04-4ba6-9236-69be9ed328e0,joanne.rodeo,available,10.58,10.58,high,low,6,spaceship,,,27/09/2026 19:17
+cf606774-92d6-46bc-b6ef-cbf961442b19,halls.rodeo,available,10.58,10.58,high,low,5,spaceship,,,28/09/2026 13:17
 b9777062-f26a-47ab-91e8-69c91d122a6c,volcanic.rodeo,available,12.99,12.99,high,low,8,namesilo,,,13/09/2026 06:48
 e0affd12-32da-4e9c-86d4-91ef3e7b2ea7,blurred.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,22/09/2026 23:21
 e5d78156-91cb-4497-a68c-5e4d58b28bda,birdie.rodeo,available,16.99,16.99,high,low,6,name.com,,,23/09/2026 20:41
@@ -366,7 +409,7 @@ aaed467e-0930-45e1-a95b-c23e21df395c,downtime.rodeo,available,12.99,12.99,high,l
 c2361958-c44a-46f0-b668-03b445a334e0,umbrellas.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,18/09/2026 22:52
 d818f1cb-04db-42d2-b912-ecfd74976d9d,georgian.rodeo,available,12.99,12.99,high,low,8,namesilo,,,18/08/2026 22:37
 c107771b-984f-4eaa-9044-0f66268d1526,choking.rodeo,available,13.98,17.98,medium,low,7,namecheap,,,24/09/2026 14:44
-ee59514d-d717-4d6c-8580-d45cc0bb13ad,within.rodeo,available,12.99,12.99,high,low,6,namesilo,,,
+ee59514d-d717-4d6c-8580-d45cc0bb13ad,within.rodeo,available,10.2,10.2,high,low,6,cloudflare,,,28/09/2026 16:47
 8ee110ba-a496-49b4-91db-b079dc7ad151,hell.rodeo,available,12.99,12.99,high,low,4,namesilo,,,
 b6485505-0c57-4155-ba04-3774be2394ad,ava.rodeo,premium,96,11.8,high,medium,3,namesilo,,,
 14fa3908-224d-4550-8edb-fcda8344702f,lied.rodeo,available,16.99,16.99,high,low,4,name.com,,,25/09/2026 08:58
@@ -374,9 +417,11 @@ b6485505-0c57-4155-ba04-3774be2394ad,ava.rodeo,premium,96,11.8,high,medium,3,nam
 f208ae56-d968-4fc2-abee-43af3146a572,charm.rodeo,available,13.98,17.98,high,low,5,namecheap,,,19/09/2026 20:23
 9b216173-46ff-4c31-ac27-75f8f062ec97,herrera.rodeo,available,10.92,10.92,medium,low,7,dynadot,,,28/09/2026 04:13
 77f0bed8-2215-4183-8462-75e608182354,acropora.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,17/09/2026 03:57
+6e9a5c2e-aac5-457d-8bbc-888c433abae6,incidentally.rodeo,available,13.98,17.98,medium,low,12,namecheap,,,28/09/2026 21:17
 c491cd38-7a94-4af4-9d04-f0a2fbe332e8,consumable.rodeo,available,12.99,12.99,high,low,10,namesilo,,,12/08/2026 23:04
 54c44da8-b081-4e0a-8085-f1b69c5b6a47,speer.rodeo,available,12.99,12.99,high,low,5,namesilo,,,18/09/2026 02:44
 55eb8a55-0ea7-44ea-b26d-19ccf885d6be,actions.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,
+1fb3c490-757a-4a08-9752-ab67a2a35bf2,amateurs.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,29/09/2026 00:10
 54caa997-f045-424f-b2d4-57fce9ad9883,expects.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,20/09/2026 01:39
 d866102a-d02f-4947-865b-9c280d6469d9,lakh.rodeo,available,12.99,12.99,medium,low,4,namesilo,,,21/08/2026 15:36
 9a6e23dc-66a7-4bed-a920-44d47ddf3dec,cube.rodeo,available,16.99,,high,medium,4,name.com,,,
@@ -399,12 +444,13 @@ b32ece2a-131c-444d-b293-9f0f578af41c,teatime.rodeo,available,12.99,12.99,high,lo
 23ac3128-1478-440e-8612-f0da8f88a784,stamp.rodeo,premium,96,11.8,high,low,5,namesilo,,,23/09/2026 01:04
 b0c83cb6-1bcb-4b63-bd41-9b2bb617e342,proportions.rodeo,available,12.99,12.99,high,low,11,namesilo,,,17/09/2026 11:38
 1893fb0e-aca6-4902-aa5d-19eba3192833,paradoxes.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,21/09/2026 00:45
-11d616c0-b620-474d-ac15-2259e0618635,worth.rodeo,premium,47.2,11.8,high,low,5,namesilo,,,
+11d616c0-b620-474d-ac15-2259e0618635,worth.rodeo,premium,41.6,10.55,high,low,5,spaceship,,,28/09/2026 11:03
 8622b460-5c8d-46b7-b262-2e85371344ac,knocking.rodeo,available,13.98,17.98,high,low,8,namecheap,,,25/09/2026 08:51
 1a3ad06e-d7e2-4367-b0f3-6e20c7f1e5c3,nosey.rodeo,available,12.99,12.99,medium,low,5,namesilo,,,03/09/2026 21:50
 54e5db8a-3def-4d8d-9faa-d815bd6dfcb4,biometry.rodeo,available,13.98,17.98,high,low,8,namecheap,,,23/09/2026 18:35
 84adb437-e111-4a0d-a0a4-557ccb8b0a69,coffeeman.rodeo,available,12.99,12.99,high,low,9,namesilo,,,
-ac324118-bb38-4681-9f01-063f97101a6b,winner.rodeo,premium,96,11.8,high,low,6,namesilo,,,
+afb160fd-28fc-411b-ab2d-b130ff30fd1b,occupational.rodeo,available,10.2,10.2,high,low,12,cloudflare,,,29/09/2026 03:01
+ac324118-bb38-4681-9f01-063f97101a6b,winner.rodeo,premium,83,10.55,high,low,6,spaceship,,,28/09/2026 17:49
 02cef852-81cb-4c46-9776-66bab7d82a6e,donkeys.rodeo,premium,96,11.8,medium,low,7,namesilo,,,20/09/2026 00:20
 d68d9f80-5147-4a77-9136-ed70c6e3b3d0,scrutinise.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,21/09/2026 03:07
 bb3f9e5a-7087-4dd4-bd00-e42510187112,excursive.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,17/08/2026 16:39
@@ -425,6 +471,7 @@ fea31a4e-e4c9-4f99-bfee-f2a633165357,wwii.rodeo,available,12.99,12.99,medium,low
 e7320b72-bec3-43fc-956b-f0be0fdc2535,sphincter.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,19/09/2026 03:31
 1da00094-17f1-4b45-9b79-9e423995b135,filetype.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,
 06f52c0b-13c4-4256-89d3-45bd25fdb58a,glimmer.rodeo,available,12.99,12.99,high,low,7,namesilo,,,20/08/2026 14:19
+381b5435-5ce2-4075-9bca-7969d2338be7,ping.rodeo,available,10.58,10.58,high,high,4,spaceship,,,28/09/2026 20:11
 f96443ed-ef25-44f4-87a1-7c644a208c07,anasarca.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,19/09/2026 03:14
 853c5654-f001-4bde-bf2c-7816898f8d0c,gloves.rodeo,premium,104,13,medium,low,6,namecheap,,,25/09/2026 19:42
 ccbe432f-f0a6-448b-85b4-fa5bd5f6d2fe,jones.rodeo,premium,47.2,11.8,high,low,5,namesilo,,,25/09/2026 00:23
@@ -442,6 +489,9 @@ f635d954-2df6-433a-bdf1-97d1df2a8797,shadow.rodeo,available,12.99,12.99,high,low
 40128187-e878-40af-9ef5-0eb4f5118fb5,getatable.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,18/08/2026 23:00
 d13bd779-80ac-4fd5-91d6-3e20f6dff9e5,liquefied.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,23/08/2026 22:01
 f0d1df4c-29ab-44cb-a07b-766245de84e9,effects.rodeo,available,12.99,12.99,high,low,7,namesilo,,,27/09/2026 03:49
+a9ac8255-7a22-435b-b22c-53aafb65c415,franck.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,29/09/2026 00:24
+1be69ad4-07f5-44a5-87f9-db1f208d9a8f,stored.rodeo,available,12.99,12.99,low,low,6,namesilo,,,28/09/2026 17:31
+ddd514be-1f78-454b-9d6b-89ddd3caaa0d,nomination.rodeo,available,12.99,12.99,high,low,10,namesilo,,,28/09/2026 14:58
 8b629a2f-746f-461c-9a6f-9f34a7b4b3af,apiarist.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,19/09/2026 17:19
 f51b5e4c-f247-4ae6-9788-96fc066a3725,purpleness.rodeo,available,12.99,12.99,high,medium,10,namesilo,,,09/09/2026 06:23
 65d16055-0b53-494f-bc94-3054cba7e9d9,departure.rodeo,available,12.99,12.99,high,low,9,namesilo,,,08/09/2026 12:08
@@ -466,27 +516,29 @@ ce26bbc0-d688-4724-b986-b013c015adec,althea.rodeo,available,12.99,12.99,medium,l
 da2d161d-0219-4579-90f7-08c129984eb7,emerging.rodeo,available,12.99,12.99,high,low,8,namesilo,,,16/08/2026 15:03
 468ee72e-b727-40f0-b1e8-5d9392e90f0e,mere.rodeo,available,13.98,17.98,high,low,4,namecheap,,,25/09/2026 19:33
 fef031ea-a9a7-4520-b67b-f4dca6589b26,stoppers.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,20/09/2026 12:45
-6adf28f6-1da2-4ae0-924e-f238dc1e3b3e,finally.rodeo,available,12.99,12.99,high,low,7,namesilo,,,
+6adf28f6-1da2-4ae0-924e-f238dc1e3b3e,finally.rodeo,available,12.99,12.99,high,low,7,namesilo,,,28/09/2026 12:41
+6448a731-c65c-410b-b7fc-4eb5194f7da3,descending.rodeo,available,10.81,10.81,medium,low,10,porkbun,,,28/09/2026 21:15
 591102be-fd60-4905-bca1-d158669d621b,biweekly.rodeo,available,12.99,12.99,high,low,8,namesilo,,,10/08/2026 09:30
 ea8c5fee-d1fe-4a33-8670-d3ec42727cb0,secondary.rodeo,available,12.99,12.99,high,low,9,namesilo,,,25/09/2026 12:14
 1d4862bb-1ac5-4132-b896-cef489f19089,drugs.rodeo,available,12.99,12.99,medium,low,5,namesilo,,,25/09/2026 16:42
-c24a0cab-a6a8-4a32-9cd7-70f88eb72583,backpack.rodeo,available,12.99,12.99,high,low,8,namesilo,,,
+c24a0cab-a6a8-4a32-9cd7-70f88eb72583,backpack.rodeo,available,12.99,12.99,high,low,8,namesilo,,,29/09/2026 00:17
 c2f79809-b835-4eaf-85f0-5842a857424a,populations.rodeo,available,16.99,16.99,medium,low,11,name.com,,,18/09/2026 17:58
 ce487cad-ba9d-445e-9cf5-70a6b624d316,careless.rodeo,available,12.99,12.99,high,low,8,namesilo,,,23/09/2026 12:52
 e9507e59-18d3-487d-a911-08ae4bd38612,wit.rodeo,premium,52,13,high,low,3,namecheap,,,24/09/2026 08:03
-d752f275-63c1-42e9-b5b6-e9bbc727c18f,greatly.rodeo,available,16.99,,high,low,7,name.com,,,
+d752f275-63c1-42e9-b5b6-e9bbc727c18f,greatly.rodeo,available,12.99,12.99,high,low,7,namesilo,,,28/09/2026 15:04
 b95d369b-b7dc-4121-a20a-e141b3c0e99f,passel.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,25/08/2026 00:35
 a6f61ca5-f260-4a3c-b097-954cdcdcac66,visitor.rodeo,available,12.99,12.99,high,low,7,namesilo,,,
 c258417e-0fba-4a10-be69-e1c24548874f,spectacled.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,09/08/2026 17:20
 c7c93bdc-1d57-4feb-8a92-2fb002556bc0,arriviste.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,03/09/2026 22:17
 410be5ee-99cb-410f-b60b-5fd320dcf8b6,jinxed.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,21/08/2026 07:53
 e12d61ec-1d84-40b9-94fa-841bc0b703b0,bronzed.rodeo,available,12.99,12.99,high,low,7,namesilo,,,11/08/2026 05:43
-c9aa2581-df5d-499a-9934-c3fd83555b10,briefs.rodeo,available,16.99,,high,low,6,name.com,,,
+c9aa2581-df5d-499a-9934-c3fd83555b10,briefs.rodeo,available,10.58,10.58,high,low,6,spaceship,,,29/09/2026 04:18
 767150c8-03fa-44a9-925e-dff600a84b33,battlement.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,22/09/2026 16:28
 688f9aca-5773-4e62-911f-7ff7aa6b2cb2,beduin.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,22/09/2026 23:27
-dd1aa542-c4f4-441c-a7ba-85e8ae79291f,delight.rodeo,available,12.99,12.99,high,low,7,namesilo,,,
+dd1aa542-c4f4-441c-a7ba-85e8ae79291f,delight.rodeo,available,10.58,10.58,high,low,7,spaceship,,,28/09/2026 16:32
 b21ba5ce-93c4-42d3-9f89-d4a48b26a424,laboratory.rodeo,available,10.2,10.2,high,low,10,cloudflare,,,28/09/2026 06:20
 deefe5e1-e350-436b-98be-bc45ffd201c4,lanthanum.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,20/09/2026 23:20
+8e993707-f050-468d-b383-f3f4ed062e7f,sperry.rodeo,available,10.92,10.92,medium,low,6,dynadot,,,29/09/2026 00:47
 250137d3-2411-499c-b30e-5d53d00fd963,cuspid.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,11/08/2026 17:03
 4969968c-92e9-4b25-830e-7ca17c3b9ae9,thoughtful.rodeo,available,12.99,12.99,high,low,10,namesilo,,,21/08/2026 05:59
 27b6021c-ed59-45f6-b502-d9da3671cd1f,couth.rodeo,available,12.99,12.99,medium,low,5,namesilo,,,13/08/2026 03:54
@@ -500,16 +552,19 @@ aa2f056f-53b1-479a-86b5-2898ef2cd69f,ruffian.rodeo,available,12.99,12.99,medium,
 5613b0c9-bb53-437a-a839-1343adc92099,brumous.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,11/08/2026 06:49
 93c10585-7a1d-42dd-950d-e16f43d53aee,bombard.rodeo,available,12.99,12.99,high,low,7,namesilo,,,22/09/2026 07:59
 daceb072-f03b-4b87-a9de-94ac1ce37c43,implied.rodeo,available,12.99,12.99,high,low,7,namesilo,,,
+9f5f7b98-e533-44fc-aa44-4110c6df5103,mandela.rodeo,available,10.58,10.58,high,low,7,spaceship,,,28/09/2026 14:49
 ba45addd-1d7d-4da5-b38a-3f089427c4fe,causally.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,14/09/2026 06:01
-86545d05-2fcd-49f2-9f89-37864e9e135a,perhaps.rodeo,available,16.99,,high,low,7,name.com,,,
+86545d05-2fcd-49f2-9f89-37864e9e135a,perhaps.rodeo,available,12.99,12.99,high,low,7,namesilo,,,28/09/2026 16:16
 951abda1-b0af-41fb-a0e2-55443374cc7b,potbellied.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,
 65aa5bf6-0050-4eb1-b342-87c98cf0eadd,rack.rodeo,available,10.2,10.2,high,low,4,cloudflare,,,27/09/2026 15:29
+40eb0e4a-2e69-434e-af8d-7260be6df175,vidal.rodeo,available,10.58,10.58,medium,low,5,spaceship,,,28/09/2026 14:04
 9fc0784c-bee2-4566-9e23-375f8d21cadc,rapacity.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,21/09/2026 08:45
 169978b0-e179-4749-a059-fcc7e9cffa42,sophie.rodeo,premium,52,13,high,low,6,namecheap,,,25/09/2026 11:44
 d03054f6-a160-4874-bf30-d64e34026860,grounded.rodeo,available,12.99,12.99,high,low,8,namesilo,,,27/09/2026 06:36
 6eec9bdc-3dad-4949-bb13-ed6d46db9014,confucius.rodeo,available,12.99,12.99,high,low,9,namesilo,,,24/09/2026 17:15
 62c637fe-a588-47fb-8b1c-7162e1e1b46c,nettled.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,
 73971681-db2a-46a9-a0a5-e88233a579a3,troubling.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,14/08/2026 13:19
+1818a5b9-85af-4b33-8c00-9bb3d7103f85,foreigners.rodeo,available,10.58,10.58,low,low,10,spaceship,,,28/09/2026 23:22
 e15178ab-280c-4cd7-84f9-294bb0fede53,slopped.rodeo,available,12.99,12.99,low,low,7,namesilo,,,09/08/2026 15:45
 8ff29557-e8c5-4f1b-a9d4-4e5487c58779,inferior.rodeo,available,12.99,12.99,high,low,8,namesilo,,,22/08/2026 04:19
 8fbcbc5b-8a0e-4373-8a31-c7feb8006d94,pitfall.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,
@@ -523,24 +578,27 @@ bc90aed1-8268-4322-a238-f7eb7e014443,eyrie.rodeo,available,12.99,12.99,high,low,
 81c35cec-8377-48a9-bfce-680d2ddb10a3,shivering.rodeo,available,12.99,12.99,high,medium,9,namesilo,,,10/09/2026 06:40
 935a38e6-5d9c-43f0-81ff-b8ec0b5cf539,affectionate.rodeo,available,16.99,,high,low,12,name.com,,,
 c383d284-c8b6-466b-88ff-63316cbe310d,chop.rodeo,available,12.99,12.99,medium,low,4,namesilo,,,
+83d2b166-9efe-4467-9317-099a3672664d,feeds.rodeo,available,10.2,10.2,medium,low,5,cloudflare,,,28/09/2026 17:27
 341679ea-131e-41a3-8950-10b0efdc7829,biochemist.rodeo,available,12.99,12.99,high,low,10,namesilo,,,23/09/2026 17:44
+246a6bde-4fa1-4bdf-b64e-b57452a446e4,mines.rodeo,available,10.58,10.58,low,low,5,spaceship,,,28/09/2026 13:08
 590a727d-9c88-4fa1-99d8-9a7ae6d42b2a,edna.rodeo,available,16.99,16.99,high,low,4,name.com,,,27/09/2026 01:34
 b459240f-e437-4abd-abf5-6a56c981af77,fireproof.rodeo,available,12.99,12.99,high,low,9,namesilo,,,18/08/2026 05:07
 401bbfdc-2f00-41d1-9747-7e1b3e8d874a,flutter.rodeo,available,12.99,12.99,high,low,7,namesilo,,,18/08/2026 07:48
 b268e34b-feab-4dd6-af62-c63041d69782,incredibly.rodeo,available,12.99,12.99,high,low,10,namesilo,,,14/09/2026 17:21
 7e45c76f-690d-4b2e-8644-8e451fc662c7,affiliation.rodeo,available,12.99,12.99,high,low,11,namesilo,,,
+16c9690c-3c45-4b5d-b262-2efae9c1589a,gunfire.rodeo,available,10.58,10.58,medium,low,7,spaceship,,,28/09/2026 19:24
 6cb15943-940e-459b-b197-c46a54da75da,grotty.rodeo,available,13.98,17.98,medium,low,6,namecheap,,,20/08/2026 20:20
 0faae435-2a44-48e4-b00b-b92cb13670ac,amniote.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,18/09/2026 22:28
 7d5424b7-38f1-45ae-8737-6f0940ea5cad,sensitive.rodeo,available,10.58,10.58,high,low,9,spaceship,,,27/09/2026 20:05
 ee06a058-3de7-4e23-aad4-02e69b96e069,khat.rodeo,available,12.99,12.99,medium,low,4,namesilo,,,17/09/2026 15:23
 4b3772bc-8a6d-4e84-a9d8-a2545869d7f8,phocine.rodeo,available,13.98,17.98,medium,low,7,namecheap,,,08/09/2026 18:58
 bdcd0e7d-c027-4977-9d6d-c73649812d9c,pictorial.rodeo,available,12.99,12.99,high,low,9,namesilo,,,23/08/2026 01:46
-70841c24-44b5-403c-ba66-51d6e754a3b4,lacking.rodeo,available,12.99,12.99,high,low,7,namesilo,,,
-e80d3383-680a-452d-b453-f147e29865a0,ally.rodeo,available,,,high,high,4,,,,
+70841c24-44b5-403c-ba66-51d6e754a3b4,lacking.rodeo,available,10.2,10.2,medium,low,7,cloudflare,,,28/09/2026 10:18
 ec7e006c-bb84-43d0-8eb5-bfbc4bb58877,limo.rodeo,available,12.99,12.99,high,low,4,namesilo,,,
 5c86bdee-ba35-4b9d-9644-c4b5cd6eae0c,eyed.rodeo,available,13.98,17.98,high,low,4,namecheap,,,17/08/2026 20:00
 9c17a13b-733d-4d2c-81b5-23b09a2eed81,projectile.rodeo,available,12.99,12.99,high,low,10,namesilo,,,09/09/2026 02:59
 de44dc54-3994-4020-985b-11cca2f78a13,beaked.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,09/08/2026 03:50
+b3a48851-ab5c-4a1b-8393-6a9d611aeced,moravia.rodeo,available,10.58,10.58,medium,low,7,spaceship,,,28/09/2026 19:54
 9421b06d-e8d2-4c07-ab71-85579d8d0e63,airliner.rodeo,available,12.99,12.99,high,low,8,namesilo,,,17/09/2026 23:14
 74e8c0b4-a934-4129-b1ce-5ef0c6d7f87f,pointing.rodeo,available,12.99,12.99,high,low,8,namesilo,,,27/09/2026 08:31
 7d74bc26-7f04-4434-afba-2b536324c58f,advance.rodeo,available,13.98,17.98,high,low,7,namecheap,,,21/09/2026 20:22
@@ -555,6 +613,7 @@ d8ab5e86-7b1c-45e2-8b33-8e27252e53f9,ashur.rodeo,available,12.99,12.99,medium,lo
 f692548a-bda5-437a-8a5b-e1bdc91f9820,entranced.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,09/08/2026 10:11
 5595b825-620a-4e6f-99da-15b944a2ccf6,blest.rodeo,available,12.99,12.99,medium,low,5,namesilo,,,10/08/2026 14:15
 15af8842-4220-4e3a-881a-93bab45a1919,bennet.rodeo,available,12.99,12.99,high,low,6,namesilo,,,23/09/2026 08:30
+f1df8ae2-a566-499a-889d-6a0fef6518d6,hegel.rodeo,available,10.58,10.58,medium,low,5,spaceship,,,28/09/2026 14:17
 c787240c-f2f9-4e7f-a9cf-789030d7def4,taproom.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,22/09/2026 03:42
 f2adaca8-1477-46b0-94a8-6ade9a4d395d,president.rodeo,available,12.99,12.99,high,low,9,namesilo,,,
 c5b6cb5d-1e29-4dbe-968d-f74adb12dc1a,palmatifid.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,05/09/2026 00:03
@@ -587,6 +646,7 @@ b2d859d4-4384-4089-a6c6-fc10e6804345,verminous.rodeo,available,12.99,12.99,mediu
 04febd4d-91c4-4207-86a2-46c1e4c579b0,erotically.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,14/09/2026 15:58
 72b39673-3464-4ead-9f73-878b68fbcee2,thinly.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,11/09/2026 13:26
 ead4a2e2-e806-4bf2-a928-028ce8efaeb9,port.rodeo,available,12.99,12.99,high,low,4,namesilo,,,25/09/2026 13:07
+0aad6292-15c6-4f29-b712-1d26010b73fa,restraining.rodeo,available,10.58,10.58,medium,low,11,spaceship,,,29/09/2026 03:20
 c2e6f827-f805-4fd6-9c84-3fa6d4f71738,lifelong.rodeo,available,12.99,12.99,high,low,8,namesilo,,,23/08/2026 01:51
 94828d8d-aa99-47dc-87f3-2066ddaec99f,hooker.rodeo,premium,47.2,11.8,medium,low,6,namesilo,,,25/09/2026 22:46
 f3c76e63-241d-45a9-b956-462cb0ba3e91,promotions.rodeo,available,10.58,10.58,medium,low,10,spaceship,,,28/09/2026 08:51
@@ -640,21 +700,21 @@ f10de342-dd7d-4ee6-ab43-b32405d0c25b,pubescent.rodeo,available,12.99,12.99,mediu
 37874071-8302-4e3a-a52b-adf03591f6e1,bise.rodeo,available,13.98,17.98,medium,low,4,namecheap,,,23/09/2026 21:37
 4ac2a811-7931-4b00-aba3-771034466bee,iodized.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,22/08/2026 09:18
 7a95ee04-782c-403b-92aa-4b9cc067456f,obtain.rodeo,available,12.99,12.99,high,low,6,namesilo,,,
-fa4bbd3a-8f0f-4d0e-9497-e2d05034e651,anyway.rodeo,available,10.58,10.58,medium,low,6,spaceship,,,27/09/2026 22:14
+fa4bbd3a-8f0f-4d0e-9497-e2d05034e651,anyway.rodeo,available,10.58,10.58,high,low,6,spaceship,,,28/09/2026 12:17
 d11c0beb-fdcc-40fb-bcdb-f4c481e27d46,fadeout.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,09/09/2026 11:18
 4ac66ab2-2f02-45d0-89d9-78cefeaf7256,congenital.rodeo,available,13.98,17.98,high,low,10,namecheap,,,12/08/2026 21:40
 30c5e59e-7d9b-4819-a24c-d76a3f4a92fc,downcast.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,14/08/2026 17:33
 37321799-059e-47db-a7c2-c65b31be1420,sobering.rodeo,available,12.99,12.99,high,medium,8,namesilo,,,10/09/2026 13:02
 449022e7-91cd-4378-8565-ba4f7289fd64,arrives.rodeo,available,13.98,17.98,medium,low,7,namecheap,,,20/09/2026 01:05
 765db1c4-a111-416b-b132-43a9b351d5c5,aria.rodeo,premium,47.2,11.8,high,medium,4,namesilo,,,20/09/2026 05:09
+2cff9afb-6db0-4068-9ad3-f3e896bf5a0a,pow.rodeo,premium,83,10.55,high,low,3,spaceship,,,29/09/2026 01:52
 ced8af15-602b-4d29-b256-781b1e2f84f7,burlesque.rodeo,available,12.99,12.99,high,low,9,namesilo,,,11/08/2026 10:40
 b190692d-98c9-4545-bb42-c6ac4bbe523f,grimy.rodeo,available,12.99,12.99,medium,low,5,namesilo,,,09/08/2026 09:25
-fb672ae1-0e80-4e48-9983-9257a248cad0,tracked.rodeo,available,12.99,12.99,high,low,7,namesilo,,,
+fb672ae1-0e80-4e48-9983-9257a248cad0,tracked.rodeo,available,12.99,12.99,high,low,7,namesilo,,,28/09/2026 09:27
 be5166c8-8e15-4ac3-8303-ef6a35761331,subaltern.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,22/08/2026 14:29
 beafaaa6-b49d-4be2-bef9-875c975dc91f,apocrypha.rodeo,available,13.98,17.98,medium,low,9,namecheap,,,19/09/2026 18:13
 dd9ef089-c1bc-4e62-a4f8-3fd95c1b9b8d,hani.rodeo,available,13.98,17.98,high,low,4,namecheap,,,17/09/2026 23:54
 de77fc0e-0200-4cbc-93a7-c4a4e09228ea,genetical.rodeo,available,13.98,17.98,medium,low,9,namecheap,,,18/08/2026 21:37
-9e6d95e5-b9fe-4aac-8db4-28e01eeaed85,bagel.rodeo,available,12.99,12.99,high,low,5,namesilo,,,
 e62902a6-879d-4105-9125-4cc18ed6564d,explaining.rodeo,available,10.2,10.2,high,low,10,cloudflare,,,27/09/2026 22:18
 35733a66-b350-4f23-8043-e6ff9fd71d6c,anticlimax.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,19/09/2026 14:16
 6345799e-8269-4952-845c-b636fb26310b,holmes.rodeo,premium,47.2,11.8,high,low,6,namesilo,,,20/09/2026 10:51
@@ -671,7 +731,9 @@ f81f4cb0-a370-4f9a-b8f1-287434178eac,pharmaceutical.rodeo,available,12.99,12.99,
 aa7a0f94-e933-4e41-8c57-c2c52bff0cf9,bryant.rodeo,premium,47.2,11.8,high,low,6,namesilo,,,25/09/2026 17:45
 847a4fac-17c2-48aa-b9a6-66aeffaff8d7,algebra.rodeo,available,12.99,12.99,high,low,7,namesilo,,,18/09/2026 06:54
 03ed664e-a963-4f99-b877-7d669c3b2f49,flawlessly.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,12/08/2026 10:23
+61577203-2c90-418a-a2c8-833654d3dd88,trusts.rodeo,available,13.98,17.98,medium,low,6,namecheap,,,28/09/2026 18:18
 d6d8236c-2129-4de9-9bf1-393da38fd2cf,holey.rodeo,available,12.99,12.99,medium,low,5,namesilo,,,21/08/2026 10:23
+fadc40fb-6361-4c40-9545-1565b7dedcfd,beliefs.rodeo,available,10.58,10.58,medium,low,7,spaceship,,,28/09/2026 17:24
 015c7adc-3b0a-4c66-ac23-e0a15c138281,bells.rodeo,available,13.98,17.98,high,low,5,namecheap,,,25/09/2026 15:52
 56ccfcc7-d9c2-4dbc-b236-7263e9436278,unshielded.rodeo,available,13.98,17.98,medium,low,10,namecheap,,,12/09/2026 19:49
 ed72b0d7-b2ce-47ff-8b00-2348fbb7edb6,abila.rodeo,available,12.99,12.99,medium,low,5,namesilo,,,16/09/2026 15:52
@@ -693,7 +755,8 @@ eb3fdcf8-afbc-490f-bd66-124594478aeb,skinless.rodeo,available,12.99,12.99,medium
 cf7f0d3a-74d6-46d7-a0ad-5fc48138c306,informers.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,21/09/2026 09:19
 2501fc1b-de1e-4bfa-94e7-56e675ae57e4,inhabit.rodeo,available,12.99,12.99,high,low,7,namesilo,,,24/08/2026 07:51
 fdbb52fe-d02b-4be3-9526-bf8c684cba42,semipublic.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,10/09/2026 03:17
-751921b8-4caa-4e1a-b383-3c45410dec4f,trained.rodeo,available,12.99,12.99,high,low,7,namesilo,,,
+751921b8-4caa-4e1a-b383-3c45410dec4f,trained.rodeo,available,10.2,10.2,high,low,7,cloudflare,,,28/09/2026 09:30
+47e1dc98-3922-46a1-815a-074f13d4712a,bonding.rodeo,available,10.2,10.2,high,low,7,cloudflare,,,28/09/2026 09:11
 7f4f9c26-01cd-4e61-94bb-ea303fe71a41,macedonian.rodeo,available,12.99,12.99,high,low,10,namesilo,,,24/08/2026 12:46
 38d1076e-a68d-4c6f-ad45-519ff3919aff,fixation.rodeo,available,12.99,12.99,high,low,8,namesilo,,,20/09/2026 09:06
 265e3531-089c-4bf0-b729-2ca56f65dbf3,sad.rodeo,premium,96,11.8,high,low,3,namesilo,,,24/09/2026 05:55
@@ -724,7 +787,7 @@ c9ee799c-4059-4d80-b914-c21757bb6eb9,sensibly.rodeo,available,12.99,12.99,medium
 e6d437c8-4bd7-4993-a150-64bbf1d38458,notional.rodeo,available,13.98,17.98,high,low,8,namecheap,,,12/08/2026 20:01
 475a8fd9-a654-47fa-b0e1-2a65e482368d,nude.rodeo,premium,96,11.8,high,low,4,namesilo,,,07/08/2026 16:15
 17518332-2a76-42b8-a63e-94b9b18cd837,typing.rodeo,available,12.99,12.99,high,low,6,namesilo,,,
-1c773812-1f81-458d-b468-9ac70dfd721b,saddle.rodeo,premium,96,11.8,high,low,6,namesilo,,,
+1c773812-1f81-458d-b468-9ac70dfd721b,saddle.rodeo,premium,96,11.8,high,low,6,namesilo,,,29/09/2026 02:22
 560b6865-73dd-4386-9dee-995dc16c8eb2,nippy.rodeo,available,12.99,12.99,high,low,5,namesilo,,,03/09/2026 17:42
 44b6a4f4-e5eb-4d5d-b187-08f971927a85,hatless.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,21/08/2026 01:20
 a8f5c0e5-de5f-4516-b11d-0efb84a00500,greet.rodeo,available,12.99,12.99,high,low,5,namesilo,,,
@@ -753,7 +816,7 @@ f1dbfb2e-d20a-48fd-b5c6-fe17c9dd27ff,need.rodeo,available,12.99,12.99,high,low,4
 543bdf2c-a035-454a-a0c1-3867c9552b69,orbicular.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,08/08/2026 10:11
 f347f66f-9ea7-4b82-916e-397f95de74e0,aerie.rodeo,available,12.99,12.99,high,medium,5,namesilo,,,
 2d243ae3-f9a4-417a-a894-e179a87a092d,amusing.rodeo,available,13.98,17.98,high,low,7,namecheap,,,
-5304c28f-623e-4460-a494-04d732071e53,suspension.rodeo,available,12.99,12.99,high,low,10,namesilo,,,
+5304c28f-623e-4460-a494-04d732071e53,suspension.rodeo,available,12.99,12.99,high,low,10,namesilo,,,28/09/2026 16:59
 b0e2e561-4179-4833-835d-011436021ce1,courageous.rodeo,available,12.99,12.99,high,low,10,namesilo,,,23/09/2026 02:25
 549daf9d-f856-44a4-8727-117582da5221,artless.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,06/08/2026 23:47
 9bc38076-c8b2-4be1-8f25-19132124191d,gadget.rodeo,available,12.99,12.99,high,low,6,namesilo,,,19/09/2026 21:47
@@ -763,6 +826,7 @@ c5c5e7fd-b268-4a87-aa53-678fb6c32657,boldface.rodeo,available,12.99,12.99,high,l
 f4738adb-c676-4f95-900c-3569079f5de4,costal.rodeo,available,12.99,12.99,high,low,6,namesilo,,,13/08/2026 03:04
 079eace3-cbd5-44a7-a872-6319d07f2421,tongues.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,18/09/2026 07:52
 6d97b6cb-741c-41ac-9fb6-6321b7503d47,antabuse.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,19/09/2026 12:24
+a25fd087-dc8a-47ca-907a-58ba5ed14b00,menace.rodeo,available,12.99,12.99,high,low,6,namesilo,,,29/09/2026 01:40
 732234f2-25c4-4764-ab27-723f8402313a,dexter.rodeo,available,12.99,12.99,high,low,6,namesilo,,,14/08/2026 05:26
 b8e6e0ab-46c8-4243-a05b-206c2a110aed,bulimia.rodeo,available,16.99,16.99,medium,low,7,name.com,,,23/09/2026 17:32
 a576d0e8-fd61-4ced-86fd-88bf75ab0aa1,ballistics.rodeo,available,12.99,12.99,high,low,10,namesilo,,,21/09/2026 22:57
@@ -778,17 +842,21 @@ fc2143d1-dfb0-4900-a48c-8291d35f6bd0,potsdam.rodeo,available,10.81,10.81,high,lo
 49240185-50f5-4f6e-8975-bf0d6da3ad85,planned.rodeo,available,12.99,12.99,high,low,7,namesilo,,,21/09/2026 22:06
 b6b7fc3c-650d-4063-8a95-386bc5f01b56,new.rodeo,premium,96,11.8,high,medium,3,namesilo,,,24/09/2026 21:46
 b11ae037-5ef2-4d9a-bddd-430b3a830150,exhibit.rodeo,premium,242,11.8,high,low,7,namesilo,,,27/09/2026 05:10
+dc79cfcc-29fc-40b1-883f-6137204938d1,performer.rodeo,available,12.99,12.99,high,low,9,namesilo,,,28/09/2026 15:03
 5900bc9f-ba11-4fce-89f9-a6cb5a2b7291,million.rodeo,available,13.98,17.98,high,low,7,namecheap,,,25/09/2026 20:09
+b9ec845e-c121-404e-b285-5ac6e600d11c,barracks.rodeo,available,10.2,10.2,medium,low,8,cloudflare,,,28/09/2026 13:08
 b066e198-3e1a-4cb4-a05d-c8b95545be9f,hats.rodeo,available,12.99,12.99,high,low,4,namesilo,,,18/09/2026 07:32
-21ea30f5-5c7c-4fd9-b982-1ba70ffbcc18,liquor.rodeo,available,16.99,,high,low,6,name.com,,,
-69c61d8b-f65c-4463-98c2-151b98dbdb26,garlic.rodeo,available,12.99,12.99,high,low,6,namesilo,,,
+21ea30f5-5c7c-4fd9-b982-1ba70ffbcc18,liquor.rodeo,available,10.58,10.58,high,low,6,spaceship,,,29/09/2026 03:40
+ab9c094d-13eb-4932-8910-3dd23a071a4f,prostitution.rodeo,available,13.98,17.98,medium,low,12,namecheap,,,28/09/2026 17:12
+69c61d8b-f65c-4463-98c2-151b98dbdb26,garlic.rodeo,available,10.2,10.2,high,low,6,cloudflare,,,28/09/2026 19:27
 223b8da8-4584-46e6-8eda-10f59491d4ed,washout.rodeo,available,13.98,17.98,medium,low,7,namecheap,,,14/08/2026 20:57
 c94ddd52-5aad-43d0-91c1-4b4d22e8c2c8,torpid.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,14/08/2026 16:15
 29b60583-0184-4521-97eb-04b2ef0c78ed,sse.rodeo,available,12.99,12.99,high,low,3,namesilo,,,16/09/2026 05:18
 0cde23b3-b903-4ad3-8154-356ebfcdc9bb,backslash.rodeo,available,16.99,,high,low,9,name.com,,,
+4449a8fa-5f45-41b1-952a-491a5411ce54,voss.rodeo,available,12.99,12.99,medium,low,4,namesilo,,,29/09/2026 03:14
 84ce8077-0b93-4ea6-ad2c-d69c2a745b1b,rollins.rodeo,available,13.98,17.98,high,low,7,namecheap,,,27/09/2026 08:03
 2ac487da-d6c5-4077-94e6-588fb760625b,revelatory.rodeo,available,12.99,12.99,high,low,10,namesilo,,,06/08/2026 00:55
-bb6b6014-b835-4dc3-83e6-90d6acce9f3a,locally.rodeo,available,16.99,,high,low,7,name.com,,,
+bb6b6014-b835-4dc3-83e6-90d6acce9f3a,locally.rodeo,available,10.2,10.2,medium,low,7,cloudflare,,,28/09/2026 16:11
 21a77509-5329-4a03-bd92-7d71cec04195,janet.rodeo,premium,47.2,11.8,high,low,5,namesilo,,,25/09/2026 13:29
 d4f831f4-3d86-45a1-8205-fb75379e96a9,hexed.rodeo,available,12.99,12.99,medium,low,5,namesilo,,,21/08/2026 07:51
 bd6be551-a6f3-4ffc-a5c7-b3c8b7588649,vanderbilt.rodeo,available,12.99,12.99,high,low,10,namesilo,,,25/09/2026 04:24
@@ -797,7 +865,7 @@ bd6be551-a6f3-4ffc-a5c7-b3c8b7588649,vanderbilt.rodeo,available,12.99,12.99,high
 f539d059-62bd-4de9-8919-4869e2955029,alright.rodeo,available,12.99,12.99,high,low,7,namesilo,,,22/09/2026 01:15
 3868b0d6-4aa5-4e3f-8d82-ad866c4bad86,attempted.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,07/08/2026 15:12
 f387a6a3-cf11-4a04-b561-439cae426698,balanced.rodeo,available,13.98,17.98,high,low,8,namecheap,,,22/09/2026 16:28
-b962a5c5-12cb-485d-b23e-8a3dfc3457fb,barbecue.rodeo,available,12.99,12.99,high,low,8,namesilo,,,
+b962a5c5-12cb-485d-b23e-8a3dfc3457fb,barbecue.rodeo,available,10.92,10.92,high,low,8,dynadot,,,29/09/2026 01:06
 56248a89-a0ab-4334-91ff-18e1358ce562,aromatic.rodeo,available,13.98,17.98,high,low,8,namecheap,,,22/09/2026 08:02
 c243adb4-286c-4f5f-b8d4-9c66d7b7c488,otic.rodeo,available,12.99,12.99,medium,low,4,namesilo,,,07/08/2026 17:41
 80ad84b7-5c6b-456f-99f5-8d18352690c4,architect.rodeo,available,12.99,12.99,high,low,9,namesilo,,,20/09/2026 02:11
@@ -825,6 +893,7 @@ dce893bf-8f65-4b87-a0ad-375192b72320,stertorous.rodeo,available,13.98,17.98,low,
 fda99998-b418-4a83-9b5a-a8ab2f44341e,white.rodeo,premium,47.2,11.8,high,medium,5,namesilo,,,19/09/2026 14:26
 35ae2c48-891f-4757-99cd-a5fbd0dd24e5,odd.rodeo,premium,104,13,high,low,3,namecheap,,,24/09/2026 03:59
 d0208c8f-2660-4559-9f37-9a9211e1b419,hitherto.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,13/09/2026 21:48
+6a7d4473-fe0a-4d31-8fdf-a2585fc9bb59,ren.rodeo,available,10.58,10.58,high,low,3,spaceship,,,29/09/2026 02:51
 677a3be2-99d1-4b85-bda1-0be3e5ae3480,apartments.rodeo,available,13.98,17.98,medium,low,10,namecheap,,,19/09/2026 20:12
 147de7bf-3422-4a65-a949-a2f526d4a3ba,ahead.rodeo,available,12.99,12.99,high,low,5,namesilo,,,21/09/2026 23:29
 04accfee-2f78-4df2-8c06-e07b449dfeab,hostel.rodeo,available,12.99,12.99,high,low,6,namesilo,,,21/09/2026 02:25
@@ -842,6 +911,7 @@ faef22af-d319-4f7b-95f9-0e38ce0a6f2c,clickbait.rodeo,available,12.99,12.99,mediu
 12227ac5-995c-45b4-b89b-37a6bf9926a2,abreaction.rodeo,available,16.99,16.99,medium,low,10,name.com,,,16/09/2026 17:06
 86f8de70-36d5-4de6-b1a7-a7e141841e4c,peg.rodeo,premium,96,11.8,high,low,3,namesilo,,,27/09/2026 15:02
 761fca26-bb5b-4f8d-b55c-e187368970a3,zhu.rodeo,available,10.2,10.2,high,low,3,cloudflare,,,27/09/2026 20:59
+5761754b-28b2-4bed-a0d0-f931c195dfc6,seeks.rodeo,available,12.99,12.99,medium,low,5,namesilo,,,28/09/2026 23:37
 500c6b3d-b068-4abf-9798-b315f6e0e62f,unimodal.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,12/09/2026 13:07
 19c45189-1fd2-4608-a4b4-3f73050afb28,retarded.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,27/09/2026 13:11
 a1877468-2aa4-4625-86f9-0ec857220084,sheltered.rodeo,available,12.99,12.99,high,medium,9,namesilo,,,10/09/2026 06:27
@@ -852,6 +922,7 @@ ef6f253d-c8e4-4477-96ef-1a68ad194776,mentioned.rodeo,available,12.99,12.99,mediu
 cf4e5fdb-8795-4c1c-86bd-e9927b8001a0,synthetic.rodeo,available,12.99,12.99,high,low,9,namesilo,,,11/08/2026 23:35
 826b9a6f-7248-4363-9efa-55ecae3e191a,dispatch.rodeo,available,12.99,12.99,high,low,8,namesilo,,,04/09/2026 00:56
 fa1d5799-84ab-4e61-9c12-6868efaefaa9,miscible.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,25/08/2026 01:23
+284918c3-d1c6-4969-9a6f-cd0f9528ff5a,rockville.rodeo,available,10.58,10.58,medium,low,9,spaceship,,,28/09/2026 16:09
 8ec44706-5e3f-4805-97ef-049d5170cdba,vomiting.rodeo,available,12.99,12.99,high,low,8,namesilo,,,
 5cfcae1e-4150-4426-8073-9b2c9677c7b0,mercantile.rodeo,available,13.98,17.98,high,low,10,namecheap,,,24/08/2026 20:23
 851a0795-42a0-4ead-9237-6a9a422e87db,intragroup.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,22/08/2026 08:41
@@ -863,7 +934,7 @@ f51280ff-b137-4edd-8d7a-ca1f72cff421,pellucid.rodeo,available,12.99,12.99,high,l
 52ec921f-9ebb-4df7-bd5a-16d0f0ec0309,indicate.rodeo,available,13.98,17.98,high,low,8,namecheap,,,27/09/2026 05:02
 a367b483-9ca5-49f9-a10a-bc84cd9e1074,groundless.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,08/08/2026 21:49
 b5b5b984-e6d6-4d8c-b9cf-64a4e419b1a4,shakable.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,10/09/2026 05:32
-474a5092-cbd6-4d16-9558-57b1f7a21ff2,maybe.rodeo,available,16.99,,high,low,5,name.com,,,
+474a5092-cbd6-4d16-9558-57b1f7a21ff2,maybe.rodeo,available,12.99,12.99,high,low,5,namesilo,,,28/09/2026 16:19
 c35af094-1106-4863-a54e-97fa6b09b1e3,luncheon.rodeo,available,12.99,12.99,high,low,8,namesilo,,,
 40b20c48-f21e-4237-bfc5-c91752b1b3a0,pleb.rodeo,available,13.98,17.98,medium,low,4,namecheap,,,08/09/2026 21:04
 351e7096-d4ff-4196-a554-2b2d8a9e2678,jocular.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,22/08/2026 12:57
@@ -876,15 +947,16 @@ b4a52959-e4c8-4850-8d8d-0e392651559e,innovator.rodeo,available,12.99,12.99,high,
 8450f8fd-c377-49dd-9e8f-5227b192c3a5,tears.rodeo,available,12.99,12.99,high,low,5,namesilo,,,24/09/2026 02:29
 3155994d-9c80-4a11-909f-860ed9dbbb60,beltway.rodeo,available,12.99,12.99,high,low,7,namesilo,,,23/09/2026 07:15
 5dddfeac-11b3-444a-952c-3d743287086b,recessions.rodeo,available,13.98,17.98,low,low,10,namecheap,,,21/09/2026 06:29
-dc9647ae-1b3e-4532-8989-65e60a87d3e6,spaces.rodeo,available,12.99,12.99,high,low,6,namesilo,,,24/09/2026 15:02
+dc9647ae-1b3e-4532-8989-65e60a87d3e6,spaces.rodeo,available,10.58,10.58,medium,low,6,spaceship,,,28/09/2026 17:55
 63687003-f40e-4216-a87e-71f23aa816cd,wavering.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,13/09/2026 00:41
 98d16855-42ba-4208-9e5e-640850a9534b,autofocus.rodeo,available,12.99,12.99,high,low,9,namesilo,,,21/09/2026 06:19
 6c846311-7e9b-4f13-8029-7d8127d1126b,heartening.rodeo,available,12.99,12.99,high,low,10,namesilo,,,21/08/2026 02:09
 0292b186-da98-43e4-83fb-69e512e88b02,physically.rodeo,available,12.99,12.99,high,low,10,namesilo,,,19/09/2026 14:53
 9a1cac08-87fa-42e9-889a-356214e24e50,thatch.rodeo,available,13.98,17.98,medium,low,6,namecheap,,,24/09/2026 02:04
+0aff3dd8-561c-4ac6-97c6-9a5f8e616ab2,sniper.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,28/09/2026 15:22
 c4ea9bdf-3eb5-4abb-8473-bd8747b773e9,continuing.rodeo,available,13.98,17.98,high,low,10,namecheap,,,23/09/2026 22:17
 fe37f6c5-dbea-49f0-9fd4-01dbfee4c204,crabby.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,08/08/2026 07:43
-3beb0da6-1111-4691-bac8-2a8764a6e808,knows.rodeo,available,12.99,12.99,medium,low,5,namesilo,,,25/09/2026 02:31
+3beb0da6-1111-4691-bac8-2a8764a6e808,knows.rodeo,available,12.99,12.99,medium,low,5,namesilo,,,28/09/2026 10:33
 af9f2182-0377-4185-be44-13308ed24c66,clearance.rodeo,available,12.99,12.99,high,low,9,namesilo,,,08/09/2026 08:11
 6fda38ec-bbc4-449a-b85b-10f849ecae0f,anisette.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,19/09/2026 09:29
 2509a022-1399-4272-bf33-650a73e99ae5,savior.rodeo,available,13.98,17.98,high,low,6,namecheap,,,24/09/2026 14:49
@@ -897,7 +969,7 @@ f1c35760-75ff-4793-acef-687f00ea2c5f,dispersal.rodeo,available,12.99,12.99,high,
 ab76255d-432f-434f-bef8-9444868a84e5,amanita.rodeo,available,16.99,16.99,medium,low,7,name.com,,,18/09/2026 15:43
 2d9a46f1-c9a6-4804-96f0-c2b3d6c75928,winy.rodeo,available,12.99,12.99,medium,low,4,namesilo,,,13/09/2026 12:25
 5cce2ffd-4a55-44e4-995b-2bcbf086010d,agreeable.rodeo,available,12.99,12.99,high,low,9,namesilo,,,21/09/2026 23:17
-8e7263c2-860c-4df6-9ad8-723368c30216,ada.rodeo,premium,47.2,11.8,high,medium,3,namesilo,,,
+8e7263c2-860c-4df6-9ad8-723368c30216,ada.rodeo,premium,41.6,10.55,high,medium,3,spaceship,,,28/09/2026 18:12
 42a65436-a3f1-4b03-8049-f87b538f9ffe,neolithic.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,03/09/2026 15:25
 e3d1c06a-0002-4cd6-b771-b758e74918c2,peirce.rodeo,available,13.98,17.98,medium,low,6,namecheap,,,23/09/2026 08:23
 954fc5c6-4fc6-4725-9447-d202cb32ddbe,euclidian.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,17/08/2026 14:04
@@ -905,8 +977,9 @@ e3d1c06a-0002-4cd6-b771-b758e74918c2,peirce.rodeo,available,13.98,17.98,medium,l
 957d9930-0c0e-4cb5-b657-eff3c1e4c009,reviving.rodeo,available,12.99,12.99,high,low,8,namesilo,,,09/09/2026 14:08
 7d62aab0-09f8-4bb6-a9f6-5eeb72272149,afterlife.rodeo,available,12.99,12.99,high,low,9,namesilo,,,15/09/2026 00:23
 ae3e7df0-fcbd-4ccf-bffe-e3cdbcd4a39b,belorussia.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,23/09/2026 04:27
-72eceb11-2c8c-4924-954e-7e5e6a850f16,shortly.rodeo,available,12.99,12.99,high,low,7,namesilo,,,
+72eceb11-2c8c-4924-954e-7e5e6a850f16,shortly.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,28/09/2026 13:26
 427c77bc-c977-4e35-b144-1238bf0cc1f5,antonymous.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,05/08/2026 20:16
+91cdb3fb-b049-4c00-bfab-83f13571c06d,guerra.rodeo,available,10.58,10.58,medium,low,6,spaceship,,,28/09/2026 12:18
 ec65aed3-2967-49a3-9b6a-964dfaba86a2,mingle.rodeo,available,12.99,12.99,high,low,6,namesilo,,,22/09/2026 03:11
 a868ffa9-c380-4b8b-aa48-a0461245f191,zymotic.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,13/09/2026 15:57
 01601e4c-b680-492a-8b8b-f17219edc2c7,woolen.rodeo,available,12.99,12.99,high,low,6,namesilo,,,13/09/2026 13:13
@@ -926,76 +999,3 @@ b2bf6365-5f72-41c4-904e-f342a44be71d,victories.rodeo,available,12.99,12.99,high,
 9cd6af5d-3990-4cf3-bb42-06266740820b,courts.rodeo,available,10.92,10.92,high,low,6,dynadot,,,28/09/2026 03:42
 5d0fd328-6dc6-45fb-85fb-55eb7f485598,brooding.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,11/08/2026 05:52
 1e9297f7-3062-4560-a9c4-c933b00a316d,recognition.rodeo,available,12.99,12.99,high,low,11,namesilo,,,
-51fb8615-63c9-4c94-8631-fff3181cd8d2,headquarters.rodeo,available,12.99,12.99,high,low,12,namesilo,,,27/09/2026 02:02
-ed2d3ae1-befa-471c-89f3-564a9acc6491,isthmian.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,22/08/2026 11:34
-fdd8c897-bba6-42f9-a7b8-91077281586a,nighttime.rodeo,available,12.99,12.99,high,low,9,namesilo,,,
-ef026356-fae6-4378-a188-661e3c11b7f4,mesmeric.rodeo,available,13.98,17.98,medium,low,8,namecheap,,,24/08/2026 21:13
-5573b835-8a3e-4f0a-845b-a38411d311b7,acrobatic.rodeo,available,13.98,17.98,high,low,9,namecheap,,,
-00e2341b-da41-4d8c-9c98-ae327bcd589b,debase.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,
-b3bc2ff4-18a5-47f6-a0d1-d9dbc03edfe1,ointment.rodeo,available,12.99,12.99,high,low,8,namesilo,,,16/08/2026 15:54
-c043ce2c-12d3-4106-91ff-ad70c8682876,backtalk.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,21/09/2026 14:51
-9f3eb2c1-592b-4b7d-be10-5a4067d8ec7d,legitimacy.rodeo,available,12.99,12.99,high,low,10,namesilo,,,21/09/2026 05:07
-edc2974f-fc8f-4754-a139-3203eff1705a,uncut.rodeo,available,12.99,12.99,high,low,5,namesilo,,,12/09/2026 06:52
-f8405eb3-3dc1-465e-870f-cd3ed31438bc,sartorial.rodeo,available,13.98,17.98,high,medium,9,namecheap,,,09/09/2026 21:32
-ae6bb6dc-e8b6-4d21-940c-4a7b23e9eddb,nonuple.rodeo,available,12.99,12.99,low,low,7,namesilo,,,03/09/2026 17:30
-169d4623-fa91-48cb-bcf7-a9841c299042,wreck.rodeo,available,12.99,12.99,high,low,5,namesilo,,,27/09/2026 05:55
-403d4ea5-b552-4f6a-bc59-8631d85c1390,distract.rodeo,available,12.99,12.99,high,low,8,namesilo,,,
-92bd8099-a447-4cea-a303-b57230749f7c,tantalum.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,20/09/2026 23:42
-8a7bfd87-7a14-44a1-b49a-ab3c9dac0f9f,awakening.rodeo,available,12.99,12.99,high,low,9,namesilo,,,
-1ea2d352-ff1d-45ff-aa21-b70b0a22d905,builder.rodeo,available,12.99,12.99,high,low,7,namesilo,,,
-88eaa310-c999-4fa4-9b78-51d7f41c097c,walk.rodeo,available,12.99,12.99,high,low,4,namesilo,,,27/09/2026 02:47
-6fdbd68a-6807-48c4-89cc-f8546e90a071,geek.rodeo,available,12.99,12.99,high,low,4,namesilo,,,24/09/2026 13:17
-dab62eae-32af-401b-9802-56ef87b1aff2,paparazzi.rodeo,available,12.99,12.99,high,low,9,namesilo,,,16/09/2026 14:02
-73ee6d3b-a5a8-4805-bcc4-d249e34cc96e,cpu.rodeo,premium,96,11.8,high,low,3,namesilo,,,24/09/2026 11:27
-b79357d1-7587-44ab-9dc9-fe0391cf23bc,veiled.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,13/09/2026 01:50
-1d100e68-84fa-4a60-b9cf-3c350fbd3b9e,debasement.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,17/09/2026 10:16
-a376d204-17ae-40e8-a6a3-ea10a8d36d27,harmonise.rodeo,available,12.99,12.99,high,low,9,namesilo,,,16/09/2026 22:55
-a69c12e5-472f-4d32-98bd-a0c06ddfe51d,imitation.rodeo,available,12.99,12.99,high,low,9,namesilo,,,18/08/2026 00:14
-d38a30f8-9bf1-43e4-9c03-ae8ad2a53bf4,bookkeeping.rodeo,available,10.58,10.58,high,low,11,spaceship,,,28/09/2026 02:35
-38e09a01-458e-4ecd-bc84-b256c8ae367c,silhouettes.rodeo,available,12.99,12.99,medium,low,11,namesilo,,,20/09/2026 11:57
-aa783358-d92a-48d0-9e3c-b74e753a56ad,drown.rodeo,available,12.99,12.99,medium,low,5,namesilo,,,
-e115a9a4-2a6c-4d60-9b0e-5b4447268804,recaptured.rodeo,available,13.98,17.98,medium,low,10,namecheap,,,18/09/2026 19:20
-2b1b98f4-6b16-4aa4-b74f-a3d7857a0908,dempsey.rodeo,available,12.99,12.99,high,low,7,namesilo,,,28/09/2026 05:31
-e59241be-062d-4bd6-b6e8-f8db23dd8275,allie.rodeo,available,12.99,12.99,high,low,5,namesilo,,,17/09/2026 22:42
-0f3ff698-e434-4ef4-a1c3-a77974891da5,genesee.rodeo,premium,41.6,10.55,medium,low,7,spaceship,,,28/09/2026 08:10
-f8da98bc-0829-48ab-a4a6-2b5819383ce1,ruly.rodeo,available,13.98,17.98,high,medium,4,namecheap,,,09/09/2026 19:21
-15c30e22-a81b-497a-bb21-ac543d6dff37,bender.rodeo,premium,47.2,11.8,high,low,6,namesilo,,,23/09/2026 07:44
-fb382fc9-2624-483c-b4c8-9f2748ad377b,standards.rodeo,available,10.58,10.58,medium,low,9,spaceship,,,27/09/2026 22:53
-c2e1740d-4cf5-4b0b-a3cc-634075d3cc10,santa.rodeo,premium,47.2,11.8,high,low,5,namesilo,,,
-7821ceb5-d432-4609-847e-8851d5e53ed2,jeer.rodeo,available,12.99,12.99,medium,low,4,namesilo,,,22/08/2026 12:37
-6b7dafb4-e6aa-45c1-940d-8d1186ca9046,distinctions.rodeo,available,12.99,12.99,medium,low,12,namesilo,,,20/09/2026 03:54
-4be8ae78-3af7-4ef1-911f-e710fec55a8c,acetonic.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,
-686945f3-a610-444c-aa83-8881c23ad806,austerity.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,21/09/2026 04:40
-cc6cd1d1-a797-4c91-878e-6bf18dee3dd6,adding.rodeo,available,12.99,12.99,high,low,6,namesilo,,,
-488618c2-da13-4e95-9a20-e1765a7317f0,allium.rodeo,available,12.99,12.99,high,low,6,namesilo,,,18/09/2026 11:13
-eee7270a-840b-4b81-a03b-bfd9598d95f7,stygian.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,
-d0c850d3-51b3-495a-8e78-1da861da7280,ormazd.rodeo,available,13.98,17.98,medium,low,6,namecheap,,,17/09/2026 20:41
-10ece677-5ac5-466c-9f0d-f86deb4c85c8,money.rodeo,premium,250,,high,medium,5,name.com,,,
-f70b657d-db23-4963-b41c-f80b3f252960,observations.rodeo,available,13.98,17.98,medium,low,12,namecheap,,,17/09/2026 08:04
-cdef2aae-b2de-497d-8a70-2746cbdd4c32,yacht.rodeo,available,10.92,10.92,high,low,5,dynadot,,,28/09/2026 02:59
-4a9bcd02-2250-4783-acac-6756edac33df,abdication.rodeo,available,13.98,17.98,medium,low,10,namecheap,,,16/09/2026 14:43
-bba9c1aa-d777-4502-9b65-1d96b9363fec,archaic.rodeo,available,12.99,12.99,high,low,7,namesilo,,,
-3cb55b5c-80be-472c-ab76-14c6076a0c19,knocker.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,24/09/2026 22:02
-bda081a7-f87b-4de3-9f37-c56433d76285,biped.rodeo,available,12.99,12.99,high,low,5,namesilo,,,10/08/2026 05:14
-de331053-e0f1-4f4a-860f-159c8b1dae6b,predaceous.rodeo,available,12.99,12.99,high,medium,10,namesilo,,,09/09/2026 01:22
-21b1a206-4893-4cba-a5a5-da6187e33fe7,felted.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,18/08/2026 01:00
-de38f4e1-eb7f-4f1f-aa76-47240ee59778,consumption.rodeo,available,12.99,12.99,high,low,11,namesilo,,,
-db93b87a-7b0d-403c-a02f-c0a05039205c,loot.rodeo,available,12.99,12.99,high,low,4,namesilo,,,24/09/2026 06:49
-bf09ee98-082f-4d10-93a6-1156cab12b24,austenite.rodeo,available,12.99,12.99,medium,low,9,namesilo,,,21/09/2026 04:39
-8a1ff97b-78d5-4e6c-8431-ae9147b66a6a,yule.rodeo,available,12.99,12.99,high,low,4,namesilo,,,24/09/2026 14:52
-a6448e2f-9909-4ed2-8481-b8051d0560d1,zonal.rodeo,available,12.99,12.99,medium,low,5,namesilo,,,13/09/2026 15:29
-8e35f0cf-f7b0-41ea-b754-0f8e0285c936,vociferous.rodeo,available,12.99,12.99,medium,low,10,namesilo,,,12/08/2026 09:21
-2634eeca-67b5-42d1-a126-121cc9e18dd0,grandparents.rodeo,available,13.98,17.98,high,low,12,namecheap,,,18/09/2026 06:12
-9fe99906-dcad-4245-9f42-c836e130d930,securing.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,
-1dd26ff7-fcdb-4114-bcb0-9776e63f359b,arequipa.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,20/09/2026 03:53
-d82caf74-4654-4650-988a-7dee4e93b168,cherubic.rodeo,available,12.99,12.99,high,low,8,namesilo,,,12/08/2026 04:25
-2e21d864-fa69-42b4-acf6-f413504dd03c,blonde.rodeo,premium,242,11.8,high,low,6,namesilo,,,22/09/2026 22:17
-6b5e2aa1-1642-4aa5-be2a-2c6be49bdf8f,syndicate.rodeo,available,12.99,12.99,high,low,9,namesilo,,,24/09/2026 17:30
-7a2940b5-785e-466f-8b6c-798009faba1f,majestic.rodeo,available,12.99,12.99,high,low,8,namesilo,,,25/09/2026 16:12
-e59f3776-ecf7-4f17-a755-4d7dc3cdad11,moslem.rodeo,available,12.99,12.99,high,low,6,namesilo,,,22/08/2026 10:47
-411698c6-c46f-40dc-b41d-c30e50db2f1e,counted.rodeo,available,16.99,,medium,low,7,name.com,,,
-92a5a0e6-23f7-44f8-b896-3f533df38f1a,blithely.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,14/09/2026 00:31
-0f943f3b-4003-446b-9cf3-2358fd5571b6,disjoint.rodeo,available,12.99,12.99,medium,low,8,namesilo,,,14/08/2026 11:09
-017d09cd-9e38-4bfa-86d5-21ed6f800504,queenly.rodeo,available,12.99,12.99,medium,low,7,namesilo,,,09/09/2026 07:52
-374c71a2-707e-4aee-a19f-c349e1f61d3f,bilsted.rodeo,available,,,medium,low,7,,,,18/09/2026 20:49
-6079b527-12ab-4f6e-bb32-3d102f04378c,firm.rodeo,available,10.2,10.2,high,low,4,cloudflare,,,28/09/2026 03:17
